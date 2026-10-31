@@ -1,0 +1,5 @@
+File_Name,Reason
+XC983985.mp3,FFMPEG error in 'avcodec_send_packet (audio)': Invalid data found when processing input
+XC1031087.mp3,FFMPEG error in 'avcodec_send_packet (audio)': Invalid data found when processing input
+XC1047015.mp3,"vector memory limit of 16.0 Gb reached, see mem.maxVSize()"
+XC718095.mp3,FFMPEG error in 'avcodec_send_packet (audio)': Invalid data found when processing input

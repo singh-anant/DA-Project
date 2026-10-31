@@ -1,0 +1,31 @@
+Model,Class,Precision,Recall,F1_Score
+species_richer_tree,Agile Mangabey,0.09090909090909091,0.125,0.10526315789473684
+species_richer_tree,Alpine Marmot,0.2,0.16666666666666666,0.18181818181818182
+species_richer_tree,Brown-headed Spider Monkey,0,0,0
+species_richer_tree,Caribou,0.75,0.5,0.6
+species_richer_tree,Chimpanzee,0.3,0.25,0.2727272727272727
+species_richer_tree,Coyote,0,0,0
+species_richer_tree,Coypu,0,0,0
+species_richer_tree,Douglas's Squirrel,1,0.14285714285714285,0.25
+species_richer_tree,Eastern Gray Squirrel,0.16666666666666666,0.14285714285714285,0.15384615384615385
+species_richer_tree,Eurasian Beaver,0.5454545454545454,0.6,0.5714285714285714
+species_richer_tree,Eurasian Otter,0.42857142857142855,0.6,0.5
+species_richer_tree,Eurasian Red Squirrel,0.3333333333333333,0.4117647058823529,0.3684210526315789
+species_richer_tree,Eurasian Wild Pig,0,0,0
+species_richer_tree,European Badger,0,0,0
+species_richer_tree,European Fat Dormouse,0,0,0
+species_richer_tree,Golden Jackal,0.21428571428571427,0.3333333333333333,0.2608695652173913
+species_richer_tree,Gray Wolf,0.5,0.25,0.3333333333333333
+species_richer_tree,Guianan Red Howler,0.4166666666666667,0.45454545454545453,0.43478260869565216
+species_richer_tree,Kenya Coast Dwarf Galago,0.8,0.6666666666666666,0.7272727272727273
+species_richer_tree,Lar Gibbon,0.42857142857142855,0.5,0.46153846153846156
+species_richer_tree,Mantled Howler,0.4166666666666667,0.4166666666666667,0.4166666666666667
+species_richer_tree,Maritime Striped Squirrel,0.25,0.2,0.2222222222222222
+species_richer_tree,North American Red Squirrel,0.4166666666666667,0.625,0.5
+species_richer_tree,Pallas's Squirrel,0.16666666666666666,0.18181818181818182,0.17391304347826086
+species_richer_tree,Red Fox,0.494949494949495,0.6282051282051282,0.5536723163841808
+species_richer_tree,Red-faced Black Spider Monkey,0.16666666666666666,0.1111111111111111,0.13333333333333333
+species_richer_tree,Reeves's Muntjac,0,0,0
+species_richer_tree,Stone Marten,0,0,0
+species_richer_tree,Western Red Deer,0.2857142857142857,0.16666666666666666,0.21052631578947367
+species_richer_tree,Western Roe Deer,0.45652173913043476,0.5121951219512195,0.4827586206896552

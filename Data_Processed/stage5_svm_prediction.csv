@@ -1,0 +1,2 @@
+Audio_File,Predicted_Species,DEFRA_Category,DEFRA_Category_Name,Species_Mapped_Threat_Label,Mapping_Match_Level,Mapping_Audit_Status,Direct_Threat_Model_Prediction,Prediction_Model
+Test1.mp3,Douglas's Squirrel,,Unknown / unresolved,Unknown,Needs review: no explicit verified category in local mapping,Needs review: no explicit verified category in local mapping,Weak,RBF SVM

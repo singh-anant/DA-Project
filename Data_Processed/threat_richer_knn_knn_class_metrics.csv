@@ -1,0 +1,4 @@
+Model,Class,Precision,Recall,F1_Score
+threat_richer_knn,Dangerous,0.7286821705426356,0.8138528138528138,0.7689161554192229
+threat_richer_knn,Normal,0,0,0
+threat_richer_knn,Weak,0.7487437185929648,0.6930232558139535,0.7198067632850241

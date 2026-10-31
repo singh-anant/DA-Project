@@ -1,0 +1,31 @@
+Actual_Class,Agile Mangabey,Alpine Marmot,Brown-headed Spider Monkey,Caribou,Chimpanzee,Coyote,Coypu,Douglas's Squirrel,Eastern Gray Squirrel,Eurasian Beaver,Eurasian Otter,Eurasian Red Squirrel,Eurasian Wild Pig,European Badger,European Fat Dormouse,Golden Jackal,Gray Wolf,Guianan Red Howler,Kenya Coast Dwarf Galago,Lar Gibbon,Mantled Howler,Maritime Striped Squirrel,North American Red Squirrel,Pallas's Squirrel,Red Fox,Red-faced Black Spider Monkey,Reeves's Muntjac,Stone Marten,Western Red Deer,Western Roe Deer
+Agile Mangabey,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Alpine Marmot,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Brown-headed Spider Monkey,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caribou,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Chimpanzee,0,0,1,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Coyote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,1
+Coypu,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+Douglas's Squirrel,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Eastern Gray Squirrel,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2
+Eurasian Beaver,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Eurasian Otter,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,1,3,0,0,0,0,0
+Eurasian Red Squirrel,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,1
+Eurasian Wild Pig,0,0,0,0,0,0,2,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+European Badger,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+European Fat Dormouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+Golden Jackal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Gray Wolf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,2,0,0,0,0,0
+Guianan Red Howler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,1,0,0,0,0,0,0
+Kenya Coast Dwarf Galago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+Lar Gibbon,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Mantled Howler,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,1
+Maritime Striped Squirrel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0
+North American Red Squirrel,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Pallas's Squirrel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,1,0,0,0,1
+Red Fox,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,69,0,0,0,0,3
+Red-faced Black Spider Monkey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0
+Reeves's Muntjac,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,5,0,3,0,0,2
+Stone Marten,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0
+Western Red Deer,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,7,0
+Western Roe Deer,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,15,0,0,0,0,21

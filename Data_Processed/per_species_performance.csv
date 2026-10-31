@@ -1,0 +1,407 @@
+Species,Recall,F1,Model
+Class: Chimpanzee,0.8333333333333334,0.8,top10
+Class: Eurasian Red Squirrel,0.47058823529411764,0.6399999999999999,top10
+Class: Guianan Red Howler,0.3,0.4285714285714285,top10
+Class: Kenya Coast Dwarf Galago,0.9166666666666666,0.9565217391304348,top10
+Class: Mantled Howler,0.9166666666666666,0.8148148148148148,top10
+Class: Pallas's Squirrel,0.1,0.14285714285714288,top10
+Class: Red Fox,0.8974358974358975,0.717948717948718,top10
+Class: Reeves's Muntjac,0.3076923076923077,0.4,top10
+Class: Western Red Deer,0.3333333333333333,0.5,top10
+Class: Western Roe Deer,0.425,0.4657534246575342,top10
+Class: Agile Mangabey,1,0.7777777777777778,min20
+Class: Alpine Marmot,0,NA,min20
+Class: Brown-headed Spider Monkey,0.6,0.5454545454545454,min20
+Class: Caribou,0.8333333333333334,0.7142857142857143,min20
+Class: Chimpanzee,0.75,0.75,min20
+Class: Coyote,0.2,0.33333333333333337,min20
+Class: Coypu,0.3333333333333333,0.4444444444444444,min20
+Class: Douglas's Squirrel,0.6666666666666666,0.6666666666666666,min20
+Class: Eastern Gray Squirrel,0,NA,min20
+Class: Eurasian Beaver,0.6666666666666666,0.75,min20
+Class: Eurasian Otter,0.2222222222222222,0.2857142857142857,min20
+Class: Eurasian Red Squirrel,0.4117647058823529,0.4827586206896552,min20
+Class: Eurasian Wild Pig,0.14285714285714285,0.22222222222222224,min20
+Class: European Badger,0,NA,min20
+Class: European Fat Dormouse,0.4,0.5714285714285715,min20
+Class: Golden Jackal,0.375,0.4615384615384615,min20
+Class: Gray Wolf,0.375,0.5454545454545454,min20
+Class: Guianan Red Howler,0.7,0.608695652173913,min20
+Class: Kenya Coast Dwarf Galago,0.9166666666666666,0.9166666666666666,min20
+Class: Lar Gibbon,0.4,0.5714285714285715,min20
+Class: Mantled Howler,0.4166666666666667,0.45454545454545453,min20
+Class: Maritime Striped Squirrel,0.6,0.6666666666666665,min20
+Class: North American Red Squirrel,0.7142857142857143,0.7142857142857143,min20
+Class: Pallas's Squirrel,0.4,0.5,min20
+Class: Red Fox,0.8589743589743589,0.6063348416289593,min20
+Class: Red-faced Black Spider Monkey,0.6666666666666666,0.7058823529411765,min20
+Class: Reeves's Muntjac,0.3076923076923077,0.42105263157894735,min20
+Class: Stone Marten,0.16666666666666666,0.2857142857142857,min20
+Class: Western Red Deer,0.3333333333333333,0.4444444444444444,min20
+Class: Western Roe Deer,0.425,0.3999999999999999,min20
+Class: African Forest Elephant,1,1,all_species
+Class: African Palm Civet,NA,NA,all_species
+Class: African Savanna Elephant,NA,NA,all_species
+Class: Agile Gibbon,NA,NA,all_species
+Class: Agile Mangabey,1,0.6666666666666666,all_species
+Class: Agile Wallaby,NA,NA,all_species
+Class: Alashan Ground Squirrel,NA,NA,all_species
+Class: Alpine Ibex,0,NA,all_species
+Class: Alpine Marmot,0.16666666666666666,0.2857142857142857,all_species
+Class: Amami Rabbit,NA,NA,all_species
+Class: Amazon Bamboo Rat,NA,NA,all_species
+Class: Amazon Black Howler,NA,NA,all_species
+Class: Amazon Dwarf Squirrel,NA,NA,all_species
+Class: American Bison,NA,NA,all_species
+Class: American Pika,NA,NA,all_species
+Class: Andean Bear,NA,NA,all_species
+Class: Andean Squirrel,NA,NA,all_species
+Class: Arctic Fox,NA,NA,all_species
+Class: Arctic Ground Squirrel,NA,NA,all_species
+Class: Ashy Titi,NA,NA,all_species
+Class: Asian Elephant,NA,NA,all_species
+Class: Asian Red-cheeked Squirrel,1,0.6666666666666666,all_species
+Class: Azara's Night Monkey,0,NA,all_species
+Class: Barbary Ground Squirrel,NA,NA,all_species
+Class: Barbary Macaque,NA,NA,all_species
+Class: Bearded Capuchin,NA,NA,all_species
+Class: Bengal Sacred Langur,NA,NA,all_species
+Class: Black Giant Squirrel,0,NA,all_species
+Class: Black Lion Tamarin,NA,NA,all_species
+Class: Black Spider Monkey,NA,NA,all_species
+Class: Black Wildebeest,NA,NA,all_species
+Class: Black-and-gold Howler,NA,NA,all_species
+Class: Black-backed Jackal,NA,NA,all_species
+Class: Black-capped Marmot,NA,NA,all_species
+Class: Black-capped Squirrel Monkey,NA,NA,all_species
+Class: Black-faced Lion Tamarin,NA,NA,all_species
+Class: Black-fronted Titi,NA,NA,all_species
+Class: Black-headed Night Monkey,NA,NA,all_species
+Class: Black-horned Capuchin,0,NA,all_species
+Class: Black-mantled Tamarin,0,NA,all_species
+Class: Black-striped Squirrel,NA,NA,all_species
+Class: Black-tailed Marmoset,NA,NA,all_species
+Class: Black-tailed Prairie Dog,NA,NA,all_species
+Class: Black-tufted-ear Marmoset,0,NA,all_species
+Class: Blond Titi,0,NA,all_species
+Class: Blue Duiker,0,NA,all_species
+Class: Blue Monkey,0,NA,all_species
+Class: Blue Wildebeest,NA,NA,all_species
+Class: Bobak Marmot,0,NA,all_species
+Class: Bolivian Bamboo Rat,0,NA,all_species
+Class: Bolivian Red Howler,0,NA,all_species
+Class: Bornean Orangutan,NA,NA,all_species
+Class: Bornean White-bearded Gibbon,NA,NA,all_species
+Class: Brandt's Vole,0,NA,all_species
+Class: Brazilian Guinea Pig,NA,NA,all_species
+Class: Brown Bear,0,NA,all_species
+Class: Brown Capuchin,0,NA,all_species
+Class: Brown Howler,1,1,all_species
+Class: Brown Rat,1,0.8,all_species
+Class: Brown-headed Spider Monkey,0.8,0.7272727272727272,all_species
+Class: Buffy-tufted-ear Marmoset,0,NA,all_species
+Class: Busuanga Squirrel,NA,NA,all_species
+Class: Cacomistle,0,NA,all_species
+Class: California Ground Squirrel,NA,NA,all_species
+Class: Cambodian Striped Squirrel,NA,NA,all_species
+Class: Canadian Lynx,NA,NA,all_species
+Class: Cape Buffalo,NA,NA,all_species
+Class: Caribou,1,0.923076923076923,all_species
+Class: Caucasian Squirrel,1,1,all_species
+Class: Central American Black Howler,NA,NA,all_species
+Class: Central American Spider Monkey,NA,NA,all_species
+Class: Chacma Baboon,0,NA,all_species
+Class: Chimpanzee,0.8333333333333334,0.7407407407407408,all_species
+Class: Chinese Water Deer,NA,NA,all_species
+Class: Chital,0,NA,all_species
+Class: Collared Peccary,NA,NA,all_species
+Class: Collared Pika,NA,NA,all_species
+Class: Collins's Squirrel Monkey,NA,NA,all_species
+Class: Colombian Red Howler,0.3333333333333333,0.5,all_species
+Class: Common Brush-tailed Possum,0,NA,all_species
+Class: Common Fallow Deer,0,NA,all_species
+Class: Common Hamster,NA,NA,all_species
+Class: Common Hippopotamus,0.3333333333333333,0.4,all_species
+Class: Common Marmoset,0,NA,all_species
+Class: Common Plains Viscacha,NA,NA,all_species
+Class: Common Red-rumped Agouti,NA,NA,all_species
+Class: Common Rock Squirrel,NA,NA,all_species
+Class: Common Shrew,0,NA,all_species
+Class: Common Treeshrew,NA,NA,all_species
+Class: Common Warthog,NA,NA,all_species
+Class: Common Woolly Monkey,NA,NA,all_species
+Class: Coppery Titi,1,1,all_species
+Class: Corsac Fox,0.5,0.6666666666666666,all_species
+Class: Cotton-top Tamarin,NA,NA,all_species
+Class: Coyote,0,NA,all_species
+Class: Coypu,0.16666666666666666,0.2857142857142857,all_species
+Class: Crab-eating Fox,NA,NA,all_species
+Class: Crab-eating Mongoose,NA,NA,all_species
+Class: Crested Macaque,NA,NA,all_species
+Class: Crowned Monkey,NA,NA,all_species
+Class: Daurian Ground Squirrel,NA,NA,all_species
+Class: Daurian Pika,NA,NA,all_species
+Class: De Brazza's Monkey,NA,NA,all_species
+Class: Demidoff's Dwarf Galago,0,NA,all_species
+Class: Deppe's Squirrel,NA,NA,all_species
+Class: Diana Monkey,NA,NA,all_species
+Class: Domestic Ass,0,NA,all_species
+Class: Domestic Cat,0,NA,all_species
+Class: Domestic Dog,1,1,all_species
+Class: Domestic Goat,NA,NA,all_species
+Class: Domestic Pig,0,NA,all_species
+Class: Domestic Sheep,0,NA,all_species
+Class: Douglas's Squirrel,0.8333333333333334,0.7692307692307692,all_species
+Class: Dromedary Camel,NA,NA,all_species
+Class: Dusky Langur,0.5,0.5,all_species
+Class: Ear-spot Squirrel,NA,NA,all_species
+Class: East Javan Langur,NA,NA,all_species
+Class: Eastern Black-handed Tamarin,NA,NA,all_species
+Class: Eastern Chipmunk,0,NA,all_species
+Class: Eastern Gray Gibbon,0,NA,all_species
+Class: Eastern Gray Squirrel,0.14285714285714285,0.2,all_species
+Class: Eastern Lowland Olingo,NA,NA,all_species
+Class: Eastern Red-handed Howler,NA,NA,all_species
+Class: Eastern Ring-tailed Possum,0,NA,all_species
+Class: Eastern Roe Deer,0,NA,all_species
+Class: Ecuadorian Squirrel Monkey,NA,NA,all_species
+Class: Ecuadorian White-fronted Capuchin,NA,NA,all_species
+Class: Egyptian Mongoose,0,NA,all_species
+Class: Emperor Tamarin,0,NA,all_species
+Class: Etruscan Shrew,NA,NA,all_species
+Class: Eurasian Beaver,0.6666666666666666,0.75,all_species
+Class: Eurasian Lynx,0,NA,all_species
+Class: Eurasian Otter,0.4444444444444444,0.47058823529411764,all_species
+Class: Eurasian Pygmy Shrew,0.5,0.5,all_species
+Class: Eurasian Red Squirrel,0.4117647058823529,0.45161290322580644,all_species
+Class: Eurasian Wild Pig,0.2857142857142857,0.4444444444444445,all_species
+Class: European Badger,0.25,0.4,all_species
+Class: European Fat Dormouse,0.4,0.4444444444444445,all_species
+Class: European Garden Dormouse,0,NA,all_species
+Class: European Hare,NA,NA,all_species
+Class: European Mole,NA,NA,all_species
+Class: European Pine Marten,0,NA,all_species
+Class: European Rabbit,NA,NA,all_species
+Class: European Wildcat,0,NA,all_species
+Class: Finlayson's Squirrel,NA,NA,all_species
+Class: Fire-footed Rope Squirrel,NA,NA,all_species
+Class: Formosan Giant Flying Squirrel,NA,NA,all_species
+Class: Formosan Serow,0,NA,all_species
+Class: Garnett's Greater Galago,0,NA,all_species
+Class: Geoffroy's Tufted-ear Marmoset,NA,NA,all_species
+Class: Germain's Langur,NA,NA,all_species
+Class: Giant Otter,0,NA,all_species
+Class: Goeldi's Monkey,0,NA,all_species
+Class: Golden Jackal,0.375,0.5,all_species
+Class: Golden Lion Tamarin,NA,NA,all_species
+Class: Golden-backed Squirrel Monkey,NA,NA,all_species
+Class: Golden-brown Uacari,NA,NA,all_species
+Class: Golden-faced Saki,NA,NA,all_species
+Class: Golden-headed Lion Tamarin,0,NA,all_species
+Class: Golden-mantled Saddle-back Tamarin,NA,NA,all_species
+Class: Gray Marmot,1,0.8,all_species
+Class: Gray Wolf,0.375,0.5,all_species
+Class: Gray-bellied Squirrel,0,NA,all_species
+Class: Gray-cheeked Mangabey,0,NA,all_species
+Class: Gray-legged Night Monkey,NA,NA,all_species
+Class: Great Gerbil,NA,NA,all_species
+Class: Greater Capybara,0,NA,all_species
+Class: Greater Kudu,NA,NA,all_species
+Class: Greater White-toothed Shrew,0,NA,all_species
+Class: Guereza,0.3333333333333333,0.5,all_species
+Class: Guianan Red Howler,0.7,0.6666666666666666,all_species
+Class: Guianan Squirrel,0,NA,all_species
+Class: Guianan Squirrel Monkey,0,NA,all_species
+Class: Gursky's Spectral Tarsier,0,NA,all_species
+Class: Himalayan Marmot,NA,NA,all_species
+Class: Himalayan Striped Squirrel,0.5,0.5,all_species
+Class: House Mouse,NA,NA,all_species
+Class: Humboldt's Squirrel Monkey,NA,NA,all_species
+Class: Humboldt's White-fronted Capuchin,NA,NA,all_species
+Class: Iberian Lynx,NA,NA,all_species
+Class: Impala,NA,NA,all_species
+Class: Indian Palm Squirrel,0,NA,all_species
+Class: Indri,0,NA,all_species
+Class: Inornate Squirrel,0,NA,all_species
+Class: Irrawaddy Squirrel,NA,NA,all_species
+Class: Jaguar,0.6666666666666666,0.5,all_species
+Class: Javan Deer,NA,NA,all_species
+Class: Jentink's Squirrel,NA,NA,all_species
+Class: Ka'apor Capuchin,NA,NA,all_species
+Class: Kenya Coast Dwarf Galago,0.9166666666666666,0.7857142857142857,all_species
+Class: Kinda Baboon,NA,NA,all_species
+Class: Kinkajou,0,NA,all_species
+Class: Kloss's Gibbon,NA,NA,all_species
+Class: Koala,0,NA,all_species
+Class: Krefft's Glider,NA,NA,all_species
+Class: Lar Gibbon,0.6,0.6666666666666665,all_species
+Class: Least Chipmunk,NA,NA,all_species
+Class: Least Pygmy Squirrel,NA,NA,all_species
+Class: Least Weasel,NA,NA,all_species
+Class: Leopard,0,NA,all_species
+Class: Lesser Grison,NA,NA,all_species
+Class: Lesser White-toothed Shrew,NA,NA,all_species
+Class: Lesson's Saddle-back Tamarin,1,0.6666666666666666,all_species
+Class: Lion,0,NA,all_species
+Class: Little Ground Squirrel,1,1,all_species
+Class: Long-tailed Macaque,0,NA,all_species
+Class: Low's Squirrel,NA,NA,all_species
+Class: Lowe's Monkey,NA,NA,all_species
+Class: Lowland Paca,NA,NA,all_species
+Class: Lowland Tapir,NA,NA,all_species
+Class: Madidi Titi,NA,NA,all_species
+Class: Malayan Porcupine,NA,NA,all_species
+Class: Mandrill,NA,NA,all_species
+Class: Mantled Howler,0.5,0.4444444444444445,all_species
+Class: Marañón White-fronted Capuchin,NA,NA,all_species
+Class: Maritime Striped Squirrel,0.2,0.25,all_species
+Class: Maroon Langur,0,NA,all_species
+Class: Masked Palm Civet,NA,NA,all_species
+Class: Masked Titi,NA,NA,all_species
+Class: Meerkat,NA,NA,all_species
+Class: Merriam's Chipmunk,0,NA,all_species
+Class: Midas Tamarin,1,1,all_species
+Class: Milne-Edwards's Sportive Lemur,NA,NA,all_species
+Class: Moloch Gibbon,0,NA,all_species
+Class: Mona Monkey,NA,NA,all_species
+Class: Mongolian Gazelle,NA,NA,all_species
+Class: Moose,0.5,0.5,all_species
+Class: Mustached Monkey,0.3333333333333333,0.3333333333333333,all_species
+Class: Neotropical Otter,NA,NA,all_species
+Class: New Britain Cuscus,NA,NA,all_species
+Class: Nine-banded Armadillo,NA,NA,all_species
+Class: North American Porcupine,NA,NA,all_species
+Class: North American Red Squirrel,0.42857142857142855,0.4615384615384615,all_species
+Class: North American River Otter,NA,NA,all_species
+Class: Northern Amazon Red Squirrel,NA,NA,all_species
+Class: Northern Bamboo Lemur,NA,NA,all_species
+Class: Northern Bushbuck,NA,NA,all_species
+Class: Northern Chamois,0,NA,all_species
+Class: Northern Gray Fox,NA,NA,all_species
+Class: Northern Palawan Tree Squirrel,0,NA,all_species
+Class: Northern Palm Civet,NA,NA,all_species
+Class: Northern Palm Squirrel,1,1,all_species
+Class: Northern Pika,NA,NA,all_species
+Class: Northern Pygmy Marmoset,NA,NA,all_species
+Class: Northern Raccoon,0,NA,all_species
+Class: Northern Red Muntjak,0.5,0.6666666666666666,all_species
+Class: Northern Treeshrew,NA,NA,all_species
+Class: Northern White-breasted Hedgehog,1,0.6666666666666666,all_species
+Class: Northern Yellow-cheeked Crested Gibbon,NA,NA,all_species
+Class: Olive Baboon,0,NA,all_species
+Class: Orange-bellied Himalayan Squirrel,NA,NA,all_species
+Class: Palawan Treeshrew,NA,NA,all_species
+Class: Pale Giant Squirrel,NA,NA,all_species
+Class: Pale-thighed Langur,0,NA,all_species
+Class: Pallas's Pika,0,NA,all_species
+Class: Pallas's Squirrel,0.2,0.23529411764705882,all_species
+Class: Pampas Fox,0,NA,all_species
+Class: Peleng Tarsier,NA,NA,all_species
+Class: Pere David's Rock Squirrel,NA,NA,all_species
+Class: Perny's Long-nosed Squirrel,NA,NA,all_species
+Class: Peters's Duiker,NA,NA,all_species
+Class: Pied Bare-faced Tamarin,NA,NA,all_species
+Class: Pileated Gibbon,NA,NA,all_species
+Class: Plains Zebra,NA,NA,all_species
+Class: Plantain Squirrel,0,NA,all_species
+Class: Plateau Pika,NA,NA,all_species
+Class: Prevost's Squirrel,0,NA,all_species
+Class: Proboscis Monkey,NA,NA,all_species
+Class: Puku,NA,NA,all_species
+Class: Purple-faced Langur,NA,NA,all_species
+Class: Putty-nosed Monkey,1,0.6666666666666666,all_species
+Class: Raffles's Banded Langur,NA,NA,all_species
+Class: Red Bush Squirrel,NA,NA,all_species
+Class: Red Fox,0.9102564102564102,0.5461538461538461,all_species
+Class: Red Giant Flying Squirrel,NA,NA,all_species
+Class: Red River Hog,NA,NA,all_species
+Class: Red-bellied Lemur,1,1,all_species
+Class: Red-bellied Tamarin,NA,NA,all_species
+Class: Red-collared Brown Lemur,NA,NA,all_species
+Class: Red-faced Black Spider Monkey,0.5555555555555556,0.5555555555555556,all_species
+Class: Red-legged Sun Squirrel,NA,NA,all_species
+Class: Red-nosed Bearded Saki,NA,NA,all_species
+Class: Red-tailed Monkey,NA,NA,all_species
+Class: Red-tailed Squirrel,0,NA,all_species
+Class: Reeves's Muntjac,0.38461538461538464,0.4761904761904762,all_species
+Class: Rhesus Macaque,0,NA,all_species
+Class: Robinson's Banded Langur,NA,NA,all_species
+Class: Rock Hyrax,0,NA,all_species
+Class: Round-tailed Ground Squirrel,NA,NA,all_species
+Class: Russet Ground Squirrel,NA,NA,all_species
+Class: Sambar,0.3333333333333333,0.5,all_species
+Class: San Martín Titi,NA,NA,all_species
+Class: Sanford's Brown Lemur,NA,NA,all_species
+Class: Santa Marta White-fronted Capuchin,NA,NA,all_species
+Class: Santarém Marmoset,NA,NA,all_species
+Class: Short-eared Brush-tailed Possum,0,NA,all_species
+Class: Siamang,0,NA,all_species
+Class: Siberian Chipmunk,0,NA,all_species
+Class: Side-striped Jackal,NA,NA,all_species
+Class: Sika Deer,NA,NA,all_species
+Class: Skywalker Hoolock Gibbon,NA,NA,all_species
+Class: Slender Squirrel,NA,NA,all_species
+Class: Smith's Bush Squirrel,0,NA,all_species
+Class: Smooth-coated Otter,NA,NA,all_species
+Class: Soundscape,0,NA,all_species
+Class: South American Coati,0.5,0.6666666666666666,all_species
+Class: Southern Black-eared Opossum,NA,NA,all_species
+Class: Southern Bushbuck,NA,NA,all_species
+Class: Southern Flying Squirrel,NA,NA,all_species
+Class: Southern Gray Gibbon,NA,NA,all_species
+Class: Southern Lesser Galago,NA,NA,all_species
+Class: Southern Muriqui,NA,NA,all_species
+Class: Southern Needle-clawed Galago,NA,NA,all_species
+Class: Southern Palawan Tree Squirrel,NA,NA,all_species
+Class: Southern Palm Civet,NA,NA,all_species
+Class: Southern Pig-tailed Macaque,NA,NA,all_species
+Class: Southern Tree Hyrax,0,NA,all_species
+Class: Southern Yellow-cheeked Crested Gibbon,0.5,0.5,all_species
+Class: Spix's Saddle-back Tamarin,NA,NA,all_species
+Class: Spot-nosed Monkey,NA,NA,all_species
+Class: Spotted Hyena,0,NA,all_species
+Class: Spotted-tailed Quoll,NA,NA,all_species
+Class: Squirrel Glider,NA,NA,all_species
+Class: Stone Marten,0,NA,all_species
+Class: Sugar Glider,NA,NA,all_species
+Class: Suni,NA,NA,all_species
+Class: Swinhoe's Striped Squirrel,NA,NA,all_species
+Class: Tailless Tenrec,NA,NA,all_species
+Class: Taiwan Giant Flying Squirrel,NA,NA,all_species
+Class: Taiwanese Macaque,0,NA,all_species
+Class: Tarbagan Marmot,0,NA,all_species
+Class: Taurine Cattle,0,NA,all_species
+Class: Thick-tailed Greater Galago,NA,NA,all_species
+Class: Thirteen-lined Ground Squirrel,NA,NA,all_species
+Class: Thomas's Dwarf Galago,NA,NA,all_species
+Class: Three-striped Ground Squirrel,NA,NA,all_species
+Class: Tiger,NA,NA,all_species
+Class: Toppin's Titi,0.5,0.6666666666666666,all_species
+Class: Townsend's Chipmunk,0,NA,all_species
+Class: Tufted Pygmy Squirrel,NA,NA,all_species
+Class: Upper Guinea Red Colobus,NA,NA,all_species
+Class: Variegated Squirrel,NA,NA,all_species
+Class: Vervet Monkey,NA,NA,all_species
+Class: Wapiti,0,NA,all_species
+Class: Weddell's Saddle-back Tamarin,0,NA,all_species
+Class: West European Hedgehog,0.3333333333333333,0.5,all_species
+Class: Western Dwarf Squirrel,NA,NA,all_species
+Class: Western Gorilla,0,NA,all_species
+Class: Western Hoolock Gibbon,0,NA,all_species
+Class: Western Red Deer,0.16666666666666666,0.17391304347826086,all_species
+Class: Western Roe Deer,0.325,0.26804123711340205,all_species
+Class: Western Tree Hyrax,0,NA,all_species
+Class: White Rhinoceros,NA,NA,all_species
+Class: White-eared Titi,NA,NA,all_species
+Class: White-faced Saki,0,NA,all_species
+Class: White-footed Tamarin,0,NA,all_species
+Class: White-lipped Peccary,NA,NA,all_species
+Class: White-tailed Deer,1,1,all_species
+Class: White-whiskered Spider Monkey,NA,NA,all_species
+Class: Whitish Dwarf Squirrel,0,NA,all_species
+Class: Yellow Baboon,NA,NA,all_species
+Class: Yellow Ground Squirrel,NA,NA,all_species
+Class: Yellow-bellied Glider,NA,NA,all_species
+Class: Yellow-pine Chipmunk,0,NA,all_species
+Class: Yellow-throated Marten,0,NA,all_species
+Class: Yucatan Squirrel,NA,NA,all_species

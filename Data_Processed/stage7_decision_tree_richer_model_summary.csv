@@ -1,0 +1,3 @@
+Algorithm,Target,Test_Records,Classes,Accuracy,Balanced_Accuracy,Macro_F1,Best_CP,CV_Folds,CV_Macro_F1
+Decision Tree,species_richer_decision_tree,346,30,0.3583815028901734,0.24070554717613543,0.23249048033157108,0.001,5,0.2731945416131281
+Decision Tree,threat_richer_decision_tree,457,3,0.6301969365426696,0.43061847713010504,0.4251702683075232,0.001,5,0.4193416928756662

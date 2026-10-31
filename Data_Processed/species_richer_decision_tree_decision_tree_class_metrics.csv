@@ -1,0 +1,31 @@
+Model,Class,Precision,Recall,F1_Score
+species_richer_decision_tree,Agile Mangabey,0,0,0
+species_richer_decision_tree,Alpine Marmot,0.16666666666666666,0.16666666666666666,0.16666666666666666
+species_richer_decision_tree,Brown-headed Spider Monkey,0,0,0
+species_richer_decision_tree,Caribou,0.625,0.8333333333333334,0.7142857142857143
+species_richer_decision_tree,Chimpanzee,0.4,0.3333333333333333,0.36363636363636365
+species_richer_decision_tree,Coyote,0,0,0
+species_richer_decision_tree,Coypu,0,0,0
+species_richer_decision_tree,Douglas's Squirrel,0.75,0.5,0.6
+species_richer_decision_tree,Eastern Gray Squirrel,0,0,0
+species_richer_decision_tree,Eurasian Beaver,0.625,0.5555555555555556,0.5882352941176471
+species_richer_decision_tree,Eurasian Otter,0.2857142857142857,0.2222222222222222,0.25
+species_richer_decision_tree,Eurasian Red Squirrel,0.4375,0.4117647058823529,0.42424242424242425
+species_richer_decision_tree,Eurasian Wild Pig,0,0,0
+species_richer_decision_tree,European Badger,0,0,0
+species_richer_decision_tree,European Fat Dormouse,0,0,0
+species_richer_decision_tree,Golden Jackal,0.11764705882352941,0.25,0.16
+species_richer_decision_tree,Gray Wolf,1,0.125,0.2222222222222222
+species_richer_decision_tree,Guianan Red Howler,0.35294117647058826,0.6,0.4444444444444444
+species_richer_decision_tree,Kenya Coast Dwarf Galago,0.9,0.75,0.8181818181818182
+species_richer_decision_tree,Lar Gibbon,0,0,0
+species_richer_decision_tree,Mantled Howler,0.14285714285714285,0.08333333333333333,0.10526315789473684
+species_richer_decision_tree,Maritime Striped Squirrel,0.3,0.6,0.4
+species_richer_decision_tree,North American Red Squirrel,0,0,0
+species_richer_decision_tree,Pallas's Squirrel,0.1111111111111111,0.1,0.10526315789473684
+species_richer_decision_tree,Red Fox,0.49514563106796117,0.6538461538461539,0.56353591160221
+species_richer_decision_tree,Red-faced Black Spider Monkey,0.4444444444444444,0.4444444444444444,0.4444444444444444
+species_richer_decision_tree,Reeves's Muntjac,0,0,0
+species_richer_decision_tree,Stone Marten,0,0,0
+species_richer_decision_tree,Western Red Deer,0.18181818181818182,0.16666666666666666,0.17391304347826086
+species_richer_decision_tree,Western Roe Deer,0.4358974358974359,0.425,0.43037974683544306

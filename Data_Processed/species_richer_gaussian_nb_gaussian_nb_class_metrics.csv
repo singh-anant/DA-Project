@@ -1,0 +1,31 @@
+Model,Class,Precision,Recall,F1_Score
+species_richer_gaussian_nb,Agile Mangabey,0.6,0.42857142857142855,0.5
+species_richer_gaussian_nb,Alpine Marmot,0.4444444444444444,0.6666666666666666,0.5333333333333333
+species_richer_gaussian_nb,Brown-headed Spider Monkey,0.75,0.6,0.6666666666666666
+species_richer_gaussian_nb,Caribou,1,0.6666666666666666,0.8
+species_richer_gaussian_nb,Chimpanzee,0.6428571428571429,0.75,0.6923076923076923
+species_richer_gaussian_nb,Coyote,0.0625,0.2,0.09523809523809523
+species_richer_gaussian_nb,Coypu,0.4,0.3333333333333333,0.36363636363636365
+species_richer_gaussian_nb,Douglas's Squirrel,0.7142857142857143,0.8333333333333334,0.7692307692307693
+species_richer_gaussian_nb,Eastern Gray Squirrel,1,0.2857142857142857,0.4444444444444444
+species_richer_gaussian_nb,Eurasian Beaver,0.10526315789473684,0.4444444444444444,0.1702127659574468
+species_richer_gaussian_nb,Eurasian Otter,0.14285714285714285,0.1111111111111111,0.125
+species_richer_gaussian_nb,Eurasian Red Squirrel,0.21428571428571427,0.35294117647058826,0.26666666666666666
+species_richer_gaussian_nb,Eurasian Wild Pig,0,0,0
+species_richer_gaussian_nb,European Badger,0,0,0
+species_richer_gaussian_nb,European Fat Dormouse,0.2,0.2,0.2
+species_richer_gaussian_nb,Golden Jackal,0.5,0.75,0.6
+species_richer_gaussian_nb,Gray Wolf,0.4,0.5,0.4444444444444444
+species_richer_gaussian_nb,Guianan Red Howler,0.2857142857142857,0.2,0.23529411764705882
+species_richer_gaussian_nb,Kenya Coast Dwarf Galago,0.8333333333333334,0.8333333333333334,0.8333333333333334
+species_richer_gaussian_nb,Lar Gibbon,1,0.8,0.8888888888888888
+species_richer_gaussian_nb,Mantled Howler,0.5,0.3333333333333333,0.4
+species_richer_gaussian_nb,Maritime Striped Squirrel,1,0.8,0.8888888888888888
+species_richer_gaussian_nb,North American Red Squirrel,0.36363636363636365,0.5714285714285714,0.4444444444444444
+species_richer_gaussian_nb,Pallas's Squirrel,0.2,0.1,0.13333333333333333
+species_richer_gaussian_nb,Red Fox,0.5434782608695652,0.32051282051282054,0.4032258064516129
+species_richer_gaussian_nb,Red-faced Black Spider Monkey,0.42857142857142855,0.3333333333333333,0.375
+species_richer_gaussian_nb,Reeves's Muntjac,0.08333333333333333,0.07692307692307693,0.08
+species_richer_gaussian_nb,Stone Marten,0.5,0.16666666666666666,0.25
+species_richer_gaussian_nb,Western Red Deer,0.23076923076923078,0.25,0.24
+species_richer_gaussian_nb,Western Roe Deer,0.5454545454545454,0.3,0.3870967741935484
