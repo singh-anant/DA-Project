@@ -1,0 +1,3 @@
+"Task","Accuracy","Balanced_Accuracy","Macro_F1"
+"Threat",75.27,51.29,50.7
+"Species",60.12,51.4,56.6

@@ -1,0 +1,284 @@
+"Species","Dangerous","Weak","Normal","Total","Number_of_Classes"
+"Western Roe Deer",28,9,0,37,2
+"Caribou",5,14,0,19,2
+"Red Fox",0,319,0,319,1
+"Chimpanzee",49,0,0,49,1
+"Mantled Howler",49,0,0,49,1
+"Western Red Deer",44,0,0,44,1
+"Guianan Red Howler",41,0,0,41,1
+"Eurasian Beaver",0,39,0,39,1
+"Red-faced Black Spider Monkey",38,0,0,38,1
+"Eurasian Otter",37,0,0,37,1
+"Golden Jackal",0,36,0,36,1
+"Gray Wolf",33,0,0,33,1
+"Agile Mangabey",31,0,0,31,1
+"Eurasian Wild Pig",30,0,0,30,1
+"Coypu",0,24,0,24,1
+"Lar Gibbon",24,0,0,24,1
+"Brown-headed Spider Monkey",23,0,0,23,1
+"Stone Marten",0,21,0,21,1
+"Coyote",0,19,0,19,1
+"European Badger",0,18,0,18,1
+"Eurasian Lynx",15,0,0,15,1
+"Guereza",15,0,0,15,1
+"Jaguar",15,0,0,15,1
+"Domestic Cat",0,0,14,14,1
+"Siamang",14,0,0,14,1
+"Common Hippopotamus",13,0,0,13,1
+"Domestic Sheep",0,0,13,13,1
+"Eastern Gray Gibbon",13,0,0,13,1
+"Mustached Monkey",13,0,0,13,1
+"European Wildcat",12,0,0,12,1
+"Lion",12,0,0,12,1
+"Moose",12,0,0,12,1
+"African Forest Elephant",11,0,0,11,1
+"Putty-nosed Monkey",11,0,0,11,1
+"Southern Yellow-cheeked Crested Gibbon",11,0,0,11,1
+"Taurine Cattle",0,11,0,11,1
+"Toppin's Titi",0,11,0,11,1
+"Black-tufted-ear Marmoset",0,10,0,10,1
+"Brown Capuchin",9,0,0,9,1
+"Buffy-tufted-ear Marmoset",0,9,0,9,1
+"Colombian Red Howler",9,0,0,9,1
+"South American Coati",0,9,0,9,1
+"White-faced Saki",0,9,0,9,1
+"Brown Howler",8,0,0,8,1
+"Gray-cheeked Mangabey",8,0,0,8,1
+"Long-tailed Macaque",8,0,0,8,1
+"Taiwanese Macaque",8,0,0,8,1
+"Chacma Baboon",7,0,0,7,1
+"Common Marmoset",0,7,0,7,1
+"Corsac Fox",0,7,0,7,1
+"Dusky Langur",7,0,0,7,1
+"European Pine Marten",0,7,0,7,1
+"Leopard",7,0,0,7,1
+"Lesson's Saddle-back Tamarin",0,7,0,7,1
+"Northern Raccoon",0,7,0,7,1
+"Pale-thighed Langur",7,0,0,7,1
+"Western Tree Hyrax",0,7,0,7,1
+"White-tailed Deer",0,7,0,7,1
+"Black Giant Squirrel",0,6,0,6,1
+"Common Brush-tailed Possum",0,6,0,6,1
+"Goeldi's Monkey",0,6,0,6,1
+"Greater Capybara",0,6,0,6,1
+"Guianan Squirrel Monkey",0,6,0,6,1
+"Spotted Hyena",6,0,0,6,1
+"Western Gorilla",6,0,0,6,1
+"Western Hoolock Gibbon",6,0,0,6,1
+"Blond Titi",0,5,0,5,1
+"Blue Monkey",5,0,0,5,1
+"Bolivian Red Howler",5,0,0,5,1
+"Brown Bear",5,0,0,5,1
+"Coppery Titi",0,5,0,5,1
+"Domestic Ass",0,0,5,5,1
+"Domestic Pig",0,0,5,5,1
+"Egyptian Mongoose",0,5,0,5,1
+"Kinkajou",0,5,0,5,1
+"Maroon Langur",5,0,0,5,1
+"Midas Tamarin",0,5,0,5,1
+"Moloch Gibbon",5,0,0,5,1
+"Rhesus Macaque",5,0,0,5,1
+"Short-eared Brush-tailed Possum",0,5,0,5,1
+"Southern Tree Hyrax",0,5,0,5,1
+"Azara's Night Monkey",0,4,0,4,1
+"Black Spider Monkey",4,0,0,4,1
+"Black-mantled Tamarin",0,4,0,4,1
+"Cacomistle",0,4,0,4,1
+"Common Fallow Deer",4,0,0,4,1
+"De Brazza's Monkey",4,0,0,4,1
+"Domestic Dog",0,0,4,4,1
+"Eastern Red-handed Howler",4,0,0,4,1
+"Formosan Serow",0,4,0,4,1
+"Giant Otter",4,0,0,4,1
+"Golden-headed Lion Tamarin",0,4,0,4,1
+"Impala",0,4,0,4,1
+"Indri",0,4,0,4,1
+"Koala",0,4,0,4,1
+"Mandrill",4,0,0,4,1
+"Olive Baboon",4,0,0,4,1
+"Rock Hyrax",0,4,0,4,1
+"Smooth-coated Otter",4,0,0,4,1
+"Spot-nosed Monkey",4,0,0,4,1
+"Weddell's Saddle-back Tamarin",0,4,0,4,1
+"White-footed Tamarin",0,4,0,4,1
+"White-lipped Peccary",4,0,0,4,1
+"Yellow-throated Marten",0,4,0,4,1
+"Arctic Fox",0,3,0,3,1
+"Black-and-gold Howler",3,0,0,3,1
+"Black-capped Squirrel Monkey",0,3,0,3,1
+"Black-fronted Titi",0,3,0,3,1
+"Black-headed Night Monkey",0,3,0,3,1
+"Black-horned Capuchin",3,0,0,3,1
+"Blue Wildebeest",3,0,0,3,1
+"Central American Black Howler",3,0,0,3,1
+"Central American Spider Monkey",3,0,0,3,1
+"Collins's Squirrel Monkey",0,3,0,3,1
+"Dromedary Camel",3,0,0,3,1
+"Emperor Tamarin",0,3,0,3,1
+"Humboldt's Squirrel Monkey",0,3,0,3,1
+"Humboldt's White-fronted Capuchin",3,0,0,3,1
+"Kinda Baboon",3,0,0,3,1
+"Lowland Tapir",0,3,0,3,1
+"Marañón White-fronted Capuchin",3,0,0,3,1
+"Masked Palm Civet",0,3,0,3,1
+"Northern Pygmy Marmoset",0,3,0,3,1
+"Pale Giant Squirrel",0,3,0,3,1
+"Pampas Fox",0,3,0,3,1
+"Proboscis Monkey",3,0,0,3,1
+"Purple-faced Langur",3,0,0,3,1
+"Raffles's Banded Langur",3,0,0,3,1
+"Red River Hog",3,0,0,3,1
+"San Martín Titi",0,3,0,3,1
+"Side-striped Jackal",0,3,0,3,1
+"Sika Deer",3,0,0,3,1
+"Southern Muriqui",3,0,0,3,1
+"Tiger",3,0,0,3,1
+"Vervet Monkey",3,0,0,3,1
+"Wapiti",3,0,0,3,1
+"White Rhinoceros",3,0,0,3,1
+"White-eared Titi",0,3,0,3,1
+"Yellow Baboon",3,0,0,3,1
+"African Savanna Elephant",2,0,0,2,1
+"Agile Gibbon",2,0,0,2,1
+"Amazon Black Howler",2,0,0,2,1
+"American Bison",2,0,0,2,1
+"Andean Bear",2,0,0,2,1
+"Asian Elephant",2,0,0,2,1
+"Barbary Macaque",2,0,0,2,1
+"Bengal Sacred Langur",2,0,0,2,1
+"Black Lion Tamarin",0,2,0,2,1
+"Black Wildebeest",2,0,0,2,1
+"Black-tailed Marmoset",0,2,0,2,1
+"Bornean Orangutan",2,0,0,2,1
+"Bornean White-bearded Gibbon",2,0,0,2,1
+"Canadian Lynx",2,0,0,2,1
+"Cape Buffalo",2,0,0,2,1
+"Common Woolly Monkey",2,0,0,2,1
+"Crested Macaque",2,0,0,2,1
+"Crowned Monkey",2,0,0,2,1
+"Domestic Goat",0,0,2,2,1
+"East Javan Langur",2,0,0,2,1
+"Eastern Black-handed Tamarin",0,2,0,2,1
+"Eastern Lowland Olingo",0,2,0,2,1
+"Ecuadorian Squirrel Monkey",0,2,0,2,1
+"Ecuadorian White-fronted Capuchin",2,0,0,2,1
+"Geoffroy's Tufted-ear Marmoset",0,2,0,2,1
+"Germain's Langur",2,0,0,2,1
+"Golden Lion Tamarin",0,2,0,2,1
+"Golden-backed Squirrel Monkey",0,2,0,2,1
+"Golden-brown Uacari",0,2,0,2,1
+"Golden-faced Saki",0,2,0,2,1
+"Gray-legged Night Monkey",0,2,0,2,1
+"Iberian Lynx",2,0,0,2,1
+"Kloss's Gibbon",2,0,0,2,1
+"Least Weasel",0,2,0,2,1
+"Lesser Grison",0,2,0,2,1
+"Lowe's Monkey",2,0,0,2,1
+"Madidi Titi",0,2,0,2,1
+"Malayan Porcupine",0,2,0,2,1
+"Masked Titi",0,2,0,2,1
+"Meerkat",0,2,0,2,1
+"Milne-Edwards's Sportive Lemur",0,2,0,2,1
+"Mona Monkey",2,0,0,2,1
+"Mongolian Gazelle",0,2,0,2,1
+"Northern Chamois",0,2,0,2,1
+"Northern Palm Civet",0,2,0,2,1
+"Northern Yellow-cheeked Crested Gibbon",2,0,0,2,1
+"Peters's Duiker",0,2,0,2,1
+"Pileated Gibbon",2,0,0,2,1
+"Plains Zebra",2,0,0,2,1
+"Red-nosed Bearded Saki",0,2,0,2,1
+"Robinson's Banded Langur",2,0,0,2,1
+"Santa Marta White-fronted Capuchin",2,0,0,2,1
+"Skywalker Hoolock Gibbon",2,0,0,2,1
+"Southern Pig-tailed Macaque",2,0,0,2,1
+"Spotted-tailed Quoll",0,2,0,2,1
+"White-whiskered Spider Monkey",2,0,0,2,1
+"African Golden Wolf",0,1,0,1,1
+"African Palm Civet",0,1,0,1,1
+"Allen's Swamp Monkey",1,0,0,1,1
+"American Mink",0,1,0,1,1
+"Banteng",1,0,0,1,1
+"Bearded Capuchin",1,0,0,1,1
+"Beringian Ermine",0,1,0,1,1
+"Black Colobus",1,0,0,1,1
+"Black Crested Mangabey",1,0,0,1,1
+"Black-backed Jackal",0,1,0,1,1
+"Black-crested Sumatran Langur",1,0,0,1,1
+"Black-faced Lion Tamarin",0,1,0,1,1
+"Bobcat",1,0,0,1,1
+"Bonobo",1,0,0,1,1
+"Bush Dog",0,1,0,1,1
+"Capped Langur",1,0,0,1,1
+"Coimbra-Filho's Titi",0,1,0,1,1
+"Common Patas Monkey",1,0,0,1,1
+"Common Slender Mongoose",0,1,0,1,1
+"Common Warthog",1,0,0,1,1
+"Common Wombat",0,1,0,1,1
+"Coppery Brush-tailed Possum",0,1,0,1,1
+"Crab-eating Raccoon",0,1,0,1,1
+"Crested Capuchin",1,0,0,1,1
+"Culpeo",0,1,0,1,1
+"Darwin's Fox",0,1,0,1,1
+"Diana Monkey",1,0,0,1,1
+"Domestic Horse",0,0,1,1,1
+"Eastern Gorilla",1,0,0,1,1
+"Eastern Gray Kangaroo",1,0,0,1,1
+"Gayal",1,0,0,1,1
+"Golden Snub-nosed Monkey",1,0,0,1,1
+"Golden-bellied Mangabey",1,0,0,1,1
+"Golden-mantled Saddle-back Tamarin",0,1,0,1,1
+"Green Monkey",1,0,0,1,1
+"Guianan Bearded Saki",0,1,0,1,1
+"Indian Giant Squirrel",0,1,0,1,1
+"Jaguarundi",1,0,0,1,1
+"Ka'apor Capuchin",1,0,0,1,1
+"King Colobus",1,0,0,1,1
+"Laos Langur",1,0,0,1,1
+"Llama",0,1,0,1,1
+"Lowland Paca",0,1,0,1,1
+"Malbrouck Monkey",1,0,0,1,1
+"Mottled-face Tamarin",0,1,0,1,1
+"Mountain Tapir",0,1,0,1,1
+"Mountain Zebra",1,0,0,1,1
+"Nepal Sacred Langur",1,0,0,1,1
+"North American Porcupine",0,1,0,1,1
+"Northern Bamboo Lemur",0,1,0,1,1
+"Northern Talapoin Monkey",0,1,0,1,1
+"Ornate Titi",0,1,0,1,1
+"Pale Titi",0,1,0,1,1
+"Pampas Deer",0,1,0,1,1
+"Pied Bare-faced Tamarin",0,1,0,1,1
+"Pronghorn",0,1,0,1,1
+"Red-bellied Tamarin",0,1,0,1,1
+"Red-bellied Titi",0,1,0,1,1
+"Red-crowned Titi",0,1,0,1,1
+"Red-tailed Monkey",1,0,0,1,1
+"Ring-tailed Lemur",0,1,0,1,1
+"Santarém Marmoset",0,1,0,1,1
+"Selangor Silvery Langur",1,0,0,1,1
+"Siberut Macaque",1,0,0,1,1
+"Silvery Marmoset",0,1,0,1,1
+"Small-toothed Palm Civet",0,1,0,1,1
+"Snethlage's Marmoset",0,1,0,1,1
+"Snow Leopard",1,0,0,1,1
+"Sooty Mangabey",1,0,0,1,1
+"Southern Bahian Titi",0,1,0,1,1
+"Southern Black-eared Opossum",0,1,0,1,1
+"Southern Gray Gibbon",1,0,0,1,1
+"Southern Palm Civet",0,1,0,1,1
+"Springbok",0,1,0,1,1
+"Tasmanian Devil",1,0,0,1,1
+"Terai Sacred Langur",1,0,0,1,1
+"Tibetan Macaque",1,0,0,1,1
+"Tonkean Macaque",1,0,0,1,1
+"Upper Guinea Red Colobus",1,0,0,1,1
+"Uta Hick's Bearded Saki",0,1,0,1,1
+"Western Black-handed Tamarin",0,1,0,1,1
+"Western Gray Kangaroo",1,0,0,1,1
+"White-cheeked Macaque",1,0,0,1,1
+"White-chested Titi",0,1,0,1,1
+"White-nosed Coati",0,1,0,1,1
+"Wied's Marmoset",0,1,0,1,1
+"Wild Yak",1,0,0,1,1
+"Yellow-handed Titi",0,1,0,1,1

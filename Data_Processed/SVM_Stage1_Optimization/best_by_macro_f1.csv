@@ -1,0 +1,2 @@
+"Weighting","C","Gamma","Accuracy","Balanced_Accuracy","Macro_F1","Normal_Precision","Normal_Recall","Normal_F1"
+"inverse",10,0.01,0.690879300928454,0.594439769106737,0.54498198557654,0.142857142857143,0.386363636363636,0.208588957055215

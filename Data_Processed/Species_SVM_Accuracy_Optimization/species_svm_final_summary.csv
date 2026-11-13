@@ -1,0 +1,2 @@
+"Task","Weighting","Cost","Gamma","CV_Accuracy","Test_Accuracy","Test_Balanced_Accuracy","Test_Macro_F1"
+"Species","none",10,0.01,0.625783972125436,0.644508670520231,0.573679822356293,0.597417531768717

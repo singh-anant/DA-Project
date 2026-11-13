@@ -1,0 +1,347 @@
+"File_Name","Actual","Predicted","Confidence"
+"XC1070341.mp3","Chimpanzee","Chimpanzee",0.887370401485283
+"XC1070340.mp3","Chimpanzee","Western Roe Deer",0.455134925988848
+"XC1070337.mp3","Chimpanzee","Chimpanzee",0.997059065440916
+"XC1054211.mp3","Chimpanzee","Chimpanzee",0.992773343021332
+"XC1054178.mp3","Chimpanzee","Chimpanzee",0.799860914517001
+"XC1054172.mp3","Chimpanzee","Chimpanzee",0.989297910055004
+"XC1054156.mp3","Chimpanzee","Chimpanzee",0.890744208979374
+"XC1064007.mp3","Agile Mangabey","Agile Mangabey",0.998994510819935
+"XC1063661.mp3","Agile Mangabey","Agile Mangabey",0.995371075665132
+"XC1063657.mp3","Agile Mangabey","Agile Mangabey",0.994198525777469
+"XC1054197.mp3","Chimpanzee","Chimpanzee",0.999613045896798
+"XC1054167.mp3","Chimpanzee","Chimpanzee",0.982860811717762
+"XC1050932.mp3","Agile Mangabey","Chimpanzee",0.965545735141014
+"XC1037317.mp3","Agile Mangabey","Agile Mangabey",0.787224745712868
+"XC1037315.mp3","Agile Mangabey","Agile Mangabey",0.69576544780793
+"XC1036915.mp3","Agile Mangabey","Agile Mangabey",0.793274626349141
+"XC960496.mp3","Chimpanzee","Eurasian Red Squirrel",0.927235133605524
+"XC1054161.mp3","Chimpanzee","Coypu",0.430320501798733
+"XC1037264.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.97490815271471
+"XC1037211.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.996065780399824
+"XC1037204.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.976582985203377
+"XC1037200.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.947030081976767
+"XC1037191.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.997289524943039
+"XC1140926.mp3","Chimpanzee","Chimpanzee",0.512710790992571
+"XC1037268.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.599572263353247
+"XC1037247.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.997130825757223
+"XC1037232.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.835976496747271
+"XC1037230.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.98958482892014
+"XC1037210.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.988762924805767
+"XC1037187.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.989081686057095
+"XC1037265.mp3","Kenya Coast Dwarf Galago","Kenya Coast Dwarf Galago",0.97655834027149
+"XC1174417.mp3","Eastern Gray Squirrel","Red Fox",0.354326200250546
+"XC1083805.mp3","Brown-headed Spider Monkey","Brown-headed Spider Monkey",0.990293803199968
+"XC1083801.mp3","Brown-headed Spider Monkey","Brown-headed Spider Monkey",0.999485259970671
+"XC1083794.mp3","Mantled Howler","Guianan Red Howler",0.317355647144463
+"XC1083792.mp3","Mantled Howler","Gray Wolf",0.336538371400712
+"XC1083789.mp3","Mantled Howler","Kenya Coast Dwarf Galago",0.727450893838154
+"XC1083788.mp3","Mantled Howler","Mantled Howler",0.500298856563818
+"XC1083785.mp3","Mantled Howler","Mantled Howler",0.990175142582487
+"XC1083778.mp3","Mantled Howler","North American Red Squirrel",0.29772283552946
+"XC1083776.mp3","Mantled Howler","Mantled Howler",0.997746842219585
+"XC1083775.mp3","Mantled Howler","Mantled Howler",0.601743501065806
+"XC1060250.mp3","North American Red Squirrel","North American Red Squirrel",0.623590493480393
+"XC1046107.mp3","Coyote","Golden Jackal",0.634783444541321
+"XC1013243.mp3","North American Red Squirrel","North American Red Squirrel",0.966586539514016
+"XC1012501.mp3","Eastern Gray Squirrel","North American Red Squirrel",0.978057758801777
+"XC1007951.mp3","North American Red Squirrel","North American Red Squirrel",0.504947994579867
+"XC997052.mp3","Mantled Howler","Gray Wolf",0.334785611783246
+"XC984365.mp3","Caribou","Reeves's Muntjac",0.341754243476921
+"XC984364.mp3","Caribou","Caribou",0.913873989032189
+"XC984363.mp3","Caribou","Caribou",0.382670526483032
+"XC984212.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.605591654308077
+"XC971940.mp3","Coyote","Coyote",0.859081527421946
+"XC964199.mp3","Mantled Howler","Mantled Howler",0.840096915344168
+"XC960904.mp3","Mantled Howler","Mantled Howler",0.587192341765386
+"XC1165184.mp3","Caribou","Caribou",0.991253420203315
+"XC1164044.mp3","Caribou","Caribou",0.991786799592882
+"XC1106399.mp3","Mantled Howler","Kenya Coast Dwarf Galago",0.707204865563898
+"XC1101460.mp3","Douglas's Squirrel","Red Fox",0.489037138633641
+"XC1091794.mp3","Guianan Red Howler","Alpine Marmot",0.418483069308313
+"XC1083808.mp3","Brown-headed Spider Monkey","Brown-headed Spider Monkey",0.93577441085134
+"XC1083807.mp3","Brown-headed Spider Monkey","Brown-headed Spider Monkey",0.957610194236181
+"XC1072499.mp3","Douglas's Squirrel","Douglas's Squirrel",0.905811251170899
+"XC1052585.mp3","Guianan Red Howler","Guianan Red Howler",0.438015237872522
+"XC1051534.mp3","Douglas's Squirrel","Douglas's Squirrel",0.997189344765144
+"XC1045829.mp3","Douglas's Squirrel","Douglas's Squirrel",0.872253052954061
+"XC1035013.mp3","North American Red Squirrel","Douglas's Squirrel",0.692101989795732
+"XC1015006.mp3","Coyote","Western Roe Deer",0.918923862710212
+"XC1014042.mp3","North American Red Squirrel","North American Red Squirrel",0.665198711548277
+"XC1013722.mp3","North American Red Squirrel","North American Red Squirrel",0.762425326400608
+"XC991110.mp3","Coyote","Golden Jackal",0.519449265511588
+"XC961834.mp3","North American Red Squirrel","North American Red Squirrel",0.942220853467492
+"XC961818.mp3","Eastern Gray Squirrel","Eastern Gray Squirrel",0.348396446641593
+"XC961785.mp3","Coyote","Alpine Marmot",0.853797268183939
+"XC960193.mp3","Brown-headed Spider Monkey","Brown-headed Spider Monkey",0.46386282228767
+"XC959771.mp3","Douglas's Squirrel","North American Red Squirrel",0.643744502427558
+"XC1174495.mp3","Guianan Red Howler","Guianan Red Howler",0.9554425914369
+"XC1152533.mp3","Guianan Red Howler","Guianan Red Howler",0.971023028227386
+"XC1152530.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.823267734002606
+"XC1146063.mp3","Guianan Red Howler","Guianan Red Howler",0.937515137151896
+"XC1043364.mp3","Guianan Red Howler","Guianan Red Howler",0.967956998581828
+"XC1040226.mp3","Guianan Red Howler","Guianan Red Howler",0.543466000676947
+"XC1019607.mp3","Guianan Red Howler","Guianan Red Howler",0.98952065433508
+"XC1019606.mp3","Guianan Red Howler","Guianan Red Howler",0.981761818356359
+"XC1003624.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.978881879754909
+"XC1003615.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.808913089436396
+"XC1003434.mp3","Red-faced Black Spider Monkey","Guianan Red Howler",0.752852751616545
+"XC1003425.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.906994605271343
+"XC984402.mp3","Caribou","Caribou",0.998603144944351
+"XC977498.mp3","Guianan Red Howler","Guianan Red Howler",0.813904170123427
+"XC202235.mp3","Douglas's Squirrel","Eurasian Red Squirrel",0.518333069284987
+"XC1152528.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.310262311721868
+"XC1145873.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.945955401878092
+"XC1086383.mp3","Red-faced Black Spider Monkey","Red-faced Black Spider Monkey",0.882016404914017
+"XC1153559.mp3","Lar Gibbon","Lar Gibbon",0.988931000614184
+"XC1144961.mp3","Pallas's Squirrel","Pallas's Squirrel",0.537013001411378
+"XC1144926.mp3","Pallas's Squirrel","North American Red Squirrel",0.362607171903213
+"XC1144901.mp3","Pallas's Squirrel","Pallas's Squirrel",0.925834989777155
+"XC1144721.mp3","Pallas's Squirrel","Western Red Deer",0.353116149486929
+"XC1138731.mp3","Reeves's Muntjac","Reeves's Muntjac",0.56312238364022
+"XC1138730.mp3","Reeves's Muntjac","Reeves's Muntjac",0.777039686110415
+"XC1098561.mp3","Lar Gibbon","Chimpanzee",0.608603185550417
+"XC1076703.mp3","Lar Gibbon","Lar Gibbon",0.914884282780673
+"XC1048447.mp3","Maritime Striped Squirrel","Maritime Striped Squirrel",0.990543962489709
+"XC971624.mp3","Maritime Striped Squirrel","Maritime Striped Squirrel",0.898683723119081
+"XC971620.mp3","Reeves's Muntjac","Eurasian Beaver",0.32131530439957
+"XC960792.mp3","Lar Gibbon","Lar Gibbon",0.964174190739514
+"XC446142.mp3","Maritime Striped Squirrel","Red Fox",0.381463390973318
+"XC1141838.mp3","Red Fox","Red Fox",0.270078300616907
+"XC1031635.mp3","Lar Gibbon","Lar Gibbon",0.99496557543588
+"XC1028987.mp3","Golden Jackal","Western Roe Deer",0.340824728546242
+"XC988713.mp3","Maritime Striped Squirrel","Eurasian Otter",0.502467704164513
+"XC985999.mp3","Maritime Striped Squirrel","Maritime Striped Squirrel",0.990684988937028
+"XC961297.mp3","Reeves's Muntjac","Red-faced Black Spider Monkey",0.50935932848379
+"XC768116.mp3","Red Fox","Reeves's Muntjac",0.454032571629943
+"XC736530.mp3","Golden Jackal","Golden Jackal",0.979420140573201
+"XC961283.mp3","Pallas's Squirrel","Red-faced Black Spider Monkey",0.394197389927373
+"XC981300.mp3","Reeves's Muntjac","Eurasian Otter",0.34344099643575
+"XC1104345.mp3","Eurasian Wild Pig","Coypu",0.349663110574029
+"XC1176041.mp3","Western Red Deer","Western Red Deer",0.929305384634133
+"XC1166387.mp3","Gray Wolf","Eurasian Red Squirrel",0.381499037180372
+"XC1162185.mp3","European Fat Dormouse","Pallas's Squirrel",0.639099689471049
+"XC1161528.mp3","European Fat Dormouse","Pallas's Squirrel",0.757857042084266
+"XC1134915.mp3","Golden Jackal","Golden Jackal",0.678146451143592
+"XC1134914.mp3","Golden Jackal","Golden Jackal",0.958224855176578
+"XC1134913.mp3","Golden Jackal","Golden Jackal",0.872954345710472
+"XC1105541.mp3","Eastern Gray Squirrel","Pallas's Squirrel",0.834839733975497
+"XC1104348.mp3","Eurasian Wild Pig","Reeves's Muntjac",0.276708450561209
+"XC1103906.mp3","Stone Marten","Stone Marten",0.764825713232662
+"XC1092652.mp3","Reeves's Muntjac","Reeves's Muntjac",0.518925931013961
+"XC1091317.mp3","Stone Marten","Stone Marten",0.715036692586903
+"XC1075950.mp3","Stone Marten","Stone Marten",0.96254605319812
+"XC1068200.mp3","Red Fox","Red Fox",0.931652522330332
+"XC1059134.mp3","Coypu","Eurasian Red Squirrel",0.577639066798258
+"XC1058993.mp3","Eastern Gray Squirrel","Western Roe Deer",0.733629151165041
+"XC1051316.mp3","Reeves's Muntjac","Red Fox",0.678691091467047
+"XC1040848.mp3","Red Fox","Red Fox",0.994761442866412
+"XC1030024.mp3","Red Fox","Red Fox",0.942443270447407
+"XC991209.mp3","Western Roe Deer","Western Roe Deer",0.97998966314898
+"XC991206.mp3","Western Roe Deer","Western Roe Deer",0.721676515842236
+"XC988190.mp3","Western Roe Deer","Western Roe Deer",0.595605207725096
+"XC986204.mp3","Red Fox","Western Roe Deer",0.434001681900024
+"XC980842.mp3","Red Fox","Red Fox",0.955596058456102
+"XC973964.mp3","Eurasian Wild Pig","Eurasian Otter",0.857967403259951
+"XC972298.mp3","Red Fox","Western Roe Deer",0.866360186956892
+"XC972297.mp3","Red Fox","Eastern Gray Squirrel",0.336288518497431
+"XC971312.mp3","Eurasian Beaver","Eurasian Red Squirrel",0.37864221761486
+"XC964763.mp3","Stone Marten","Red Fox",0.415207908997223
+"XC964582.mp3","Pallas's Squirrel","Pallas's Squirrel",0.881119783209021
+"XC964580.mp3","Pallas's Squirrel","Pallas's Squirrel",0.989653199685486
+"XC964576.mp3","Pallas's Squirrel","Eurasian Otter",0.348658901778455
+"XC963905.mp3","Red Fox","Western Red Deer",0.289510295423935
+"XC963901.mp3","Red Fox","Agile Mangabey",0.364258012075404
+"XC962055.mp3","Reeves's Muntjac","Western Roe Deer",0.67942529620068
+"XC961982.mp3","Gray Wolf","Gray Wolf",0.878407473025064
+"XC961018.mp3","Eurasian Red Squirrel","Eurasian Wild Pig",0.310473009022687
+"XC961006.mp3","Eurasian Otter","Pallas's Squirrel",0.604601332352677
+"XC961004.mp3","Eurasian Otter","Eurasian Otter",0.707587566972707
+"XC961002.mp3","Red Fox","Red Fox",0.990908052822455
+"XC960985.mp3","Red Fox","Red Fox",0.485087645903642
+"XC960960.mp3","European Badger","Coyote",0.709330689404637
+"XC960582.mp3","Reeves's Muntjac","Western Roe Deer",0.40447659781385
+"XC960581.mp3","European Badger","Western Roe Deer",0.480417526002915
+"XC960553.mp3","Western Red Deer","Eastern Gray Squirrel",0.520464984789289
+"XC960432.mp3","European Badger","Stone Marten",0.581621554004617
+"XC960431.mp3","Eurasian Otter","Western Roe Deer",0.499798314444169
+"XC960226.mp3","Gray Wolf","Red Fox",0.587713167295728
+"XC818799.mp3","Gray Wolf","European Fat Dormouse",0.321261738272244
+"XC569364.mp3","Alpine Marmot","Alpine Marmot",0.740619146832547
+"XC569361.mp3","Alpine Marmot","Western Roe Deer",0.845029001655982
+"XC569359.mp3","Alpine Marmot","Alpine Marmot",0.86813369811
+"XC1168472.mp3","Eurasian Red Squirrel","Lar Gibbon",0.783952328629965
+"XC1163283.mp3","Coypu","Coypu",0.973945541366671
+"XC1161679.mp3","Alpine Marmot","Pallas's Squirrel",0.434570090809919
+"XC1161171.mp3","Western Roe Deer","Gray Wolf",0.795594553421567
+"XC1157406.mp3","Eurasian Wild Pig","Western Red Deer",0.542574781499055
+"XC1151016.mp3","Eurasian Wild Pig","Western Roe Deer",0.382356567332007
+"XC1138441.mp3","Coypu","Eurasian Otter",0.646588326247168
+"XC1104919.mp3","Western Roe Deer","Gray Wolf",0.404452056604468
+"XC1102725.mp3","Red Fox","Western Roe Deer",0.744867142807917
+"XC1100239.mp3","Eurasian Otter","Eurasian Otter",0.996053661829643
+"XC1088479.mp3","Red Fox","Eurasian Red Squirrel",0.369060042763764
+"XC1088477.mp3","Red Fox","Red Fox",0.965219988082609
+"XC1088476.mp3","Red Fox","Red Fox",0.917683054659676
+"XC1088160.mp3","Western Roe Deer","Red Fox",0.548554981392018
+"XC1087535.mp3","Red Fox","Red Fox",0.745760879681693
+"XC1077784.mp3","Golden Jackal","Golden Jackal",0.965676546906516
+"XC1077269.mp3","Red Fox","Agile Mangabey",0.631825607484973
+"XC1075159.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.889095329774705
+"XC1071283.mp3","Red Fox","Red Fox",0.763650582085121
+"XC1064880.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.869668306853053
+"XC1064877.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.776303504462983
+"XC1064872.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.907949714223202
+"XC1064868.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.771023858258767
+"XC1064862.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.93465402850925
+"XC1056167.mp3","Eurasian Wild Pig","Eurasian Red Squirrel",0.948183166615662
+"XC1056158.mp3","Western Red Deer","Western Red Deer",0.994937666310163
+"XC1054685.mp3","Red Fox","Reeves's Muntjac",0.614128535264134
+"XC1052939.mp3","Eurasian Red Squirrel","Red Fox",0.658049335705596
+"XC1047007.mp3","Western Red Deer","Western Red Deer",0.458090287502562
+"XC1045373.mp3","Alpine Marmot","Alpine Marmot",0.568273765280063
+"XC1040857.mp3","Western Red Deer","Eurasian Beaver",0.436331019423281
+"XC1040355.mp3","Alpine Marmot","Alpine Marmot",0.915416511688512
+"XC1031836.mp3","Golden Jackal","Coyote",0.533952142587751
+"XC1029074.mp3","European Fat Dormouse","European Fat Dormouse",0.379478028350465
+"XC1026099.mp3","Red Fox","Red Fox",0.990318312047404
+"XC1026080.mp3","Red Fox","Red Fox",0.924570471249981
+"XC1026072.mp3","Red Fox","Red Fox",0.899667139435313
+"XC1011683.mp3","Red Fox","Red Fox",0.613876570931565
+"XC1003483.mp3","Red Fox","Red Fox",0.579070865338742
+"XC999623.mp3","Eurasian Beaver","Eurasian Beaver",0.329970413840331
+"XC999621.mp3","Eurasian Beaver","Western Roe Deer",0.74712912196418
+"XC998510.mp3","Red Fox","Western Roe Deer",0.606924647812022
+"XC998414.mp3","Eurasian Red Squirrel","Eurasian Wild Pig",0.541192434769292
+"XC994308.mp3","Red Fox","Reeves's Muntjac",0.472717185428699
+"XC992274.mp3","Western Roe Deer","Pallas's Squirrel",0.281021014242984
+"XC992272.mp3","Western Roe Deer","European Badger",0.93384140744186
+"XC992268.mp3","Western Roe Deer","Pallas's Squirrel",0.515085081687198
+"XC992143.mp3","Red Fox","Red Fox",0.995742476742821
+"XC991298.mp3","European Fat Dormouse","Western Roe Deer",0.516341676077381
+"XC990236.mp3","Red Fox","Golden Jackal",0.891984472040417
+"XC975582.mp3","Red Fox","Red Fox",0.610415709665115
+"XC974500.mp3","Western Roe Deer","Western Roe Deer",0.982637297997621
+"XC971741.mp3","Red Fox","Red Fox",0.262788592722553
+"XC971333.mp3","Gray Wolf","Douglas's Squirrel",0.561438090848179
+"XC964586.mp3","Pallas's Squirrel","Pallas's Squirrel",0.999135475177317
+"XC964573.mp3","Pallas's Squirrel","Eurasian Red Squirrel",0.434163848835539
+"XC963906.mp3","Red Fox","Golden Jackal",0.428626705262356
+"XC962098.mp3","Western Roe Deer","Coyote",0.30274001376494
+"XC962094.mp3","Red Fox","Red Fox",0.998293022565994
+"XC961150.mp3","Red Fox","Red Fox",0.53419102470012
+"XC960990.mp3","Red Fox","Reeves's Muntjac",0.887708496154538
+"XC960984.mp3","Red Fox","Coyote",0.318319528677178
+"XC960958.mp3","European Badger","Red Fox",0.534806297576873
+"XC960557.mp3","Red Fox","Red Fox",0.472390906241716
+"XC960211.mp3","Western Roe Deer","Western Red Deer",0.614568837325031
+"XC959967.mp3","Western Roe Deer","Western Roe Deer",0.967581823748961
+"XC959965.mp3","Eurasian Red Squirrel","Eurasian Beaver",0.186595367824322
+"XC944131.mp3","Stone Marten","Stone Marten",0.420735975076901
+"XC924959.mp3","Coypu","Coypu",0.705504734437195
+"XC732081.mp3","Red Fox","Eurasian Red Squirrel",0.760612506376996
+"XC708751.mp3","Red Fox","Eurasian Wild Pig",0.449823342290503
+"XC708741.mp3","Western Roe Deer","Eurasian Wild Pig",0.606699518064796
+"XC708739.mp3","Red Fox","Western Roe Deer",0.382019793251456
+"XC696058.mp3","Red Fox","Red Fox",0.900264037192736
+"XC695794.mp3","Red Fox","Red Fox",0.37547853512671
+"XC678835.mp3","Eurasian Otter","Maritime Striped Squirrel",0.261761464434893
+"XC672194.mp3","Western Roe Deer","Reeves's Muntjac",0.450043711612018
+"XC643461.mp3","Eurasian Red Squirrel","North American Red Squirrel",0.426345676925274
+"XC641952.mp3","Eurasian Red Squirrel","Western Roe Deer",0.911229488647418
+"XC626677.mp3","Red Fox","Red Fox",0.664086019096216
+"XC626674.mp3","Red Fox","Pallas's Squirrel",0.649772113378467
+"XC583099.mp3","Western Roe Deer","Western Roe Deer",0.956587927452222
+"XC482538.mp3","Stone Marten","Eurasian Beaver",0.558894872904643
+"XC1167015.mp3","Eurasian Red Squirrel","Eurasian Red Squirrel",0.981969680999106
+"XC1163281.mp3","Coypu","Coypu",0.840894453105306
+"XC1135344.mp3","Western Roe Deer","Western Roe Deer",0.972673934946402
+"XC1105702.mp3","Western Roe Deer","Eurasian Wild Pig",0.37550216044507
+"XC1103905.mp3","Red Fox","Eurasian Beaver",0.303961964398938
+"XC1089692.mp3","Red Fox","Guianan Red Howler",0.917371319252599
+"XC1088480.mp3","Red Fox","Coypu",0.42213089337657
+"XC1084641.mp3","Eurasian Red Squirrel","Alpine Marmot",0.381703834360167
+"XC1084485.mp3","Eurasian Beaver","Eurasian Beaver",0.952695369153244
+"XC1084482.mp3","Eurasian Beaver","Eurasian Beaver",0.868340450700558
+"XC1084476.mp3","Eurasian Beaver","Eurasian Beaver",0.415673791662916
+"XC1084463.mp3","Eurasian Beaver","Eurasian Beaver",0.970604390552458
+"XC1084461.mp3","Eurasian Beaver","Eurasian Beaver",0.956392000012966
+"XC1077786.mp3","Golden Jackal","Golden Jackal",0.849248691919349
+"XC1077192.mp3","Red Fox","Red Fox",0.976864385603527
+"XC1075876.mp3","Western Roe Deer","Eurasian Beaver",0.272572979600365
+"XC1075040.mp3","Red Fox","Red Fox",0.83716087831332
+"XC1073749.mp3","Red Fox","Red Fox",0.399705580308252
+"XC1071974.mp3","Western Red Deer","Western Red Deer",0.988002977164925
+"XC1070473.mp3","Eurasian Beaver","Eurasian Beaver",0.925550359894441
+"XC1059169.mp3","Western Roe Deer","Eastern Gray Squirrel",0.58085903289426
+"XC1056138.mp3","Western Red Deer","Western Red Deer",0.938386463003997
+"XC1054451.mp3","Western Red Deer","Eurasian Red Squirrel",0.302852242845921
+"XC1051779.mp3","Red Fox","Red Fox",0.481284078586197
+"XC1049458.mp3","Eurasian Wild Pig","European Fat Dormouse",0.630031519442688
+"XC1046096.mp3","Red Fox","Coyote",0.684026244455679
+"XC1045572.mp3","Western Roe Deer","Eurasian Otter",0.212591138823705
+"XC1038874.mp3","Western Red Deer","Western Red Deer",0.868402840247124
+"XC1038489.mp3","Eurasian Otter","Red Fox",0.766146211723696
+"XC1037702.mp3","Western Roe Deer","Western Roe Deer",0.975402772341127
+"XC1027910.mp3","Eurasian Red Squirrel","Douglas's Squirrel",0.537450636953981
+"XC1026100.mp3","Red Fox","Eurasian Red Squirrel",0.508827240778024
+"XC1026082.mp3","Red Fox","Red Fox",0.910962029231199
+"XC1026060.mp3","Red Fox","Red Fox",0.49553818065275
+"XC1026059.mp3","Red Fox","Red Fox",0.654736521810632
+"XC1025997.mp3","Red Fox","Red Fox",0.996104383906007
+"XC1003462.mp3","Western Roe Deer","Western Roe Deer",0.9573856429563
+"XC1001718.mp3","Western Roe Deer","Douglas's Squirrel",0.281366490338638
+"XC998499.mp3","Reeves's Muntjac","Reeves's Muntjac",0.753058586731305
+"XC997117.mp3","Western Roe Deer","Western Roe Deer",0.923838878325351
+"XC996976.mp3","Red Fox","Red Fox",0.890971900211597
+"XC996031.mp3","Western Roe Deer","Western Roe Deer",0.954680684900055
+"XC991075.mp3","Western Roe Deer","Eurasian Wild Pig",0.40293209455076
+"XC988903.mp3","Red Fox","Red Fox",0.876543407465614
+"XC988902.mp3","Red Fox","Red Fox",0.813052830552058
+"XC984551.mp3","Red Fox","Red Fox",0.973393578639904
+"XC981342.mp3","Red Fox","Red Fox",0.912854352128347
+"XC976999.mp3","Red Fox","Eurasian Otter",0.404167706785769
+"XC975661.mp3","Red Fox","Reeves's Muntjac",0.371518883329494
+"XC975628.mp3","Red Fox","Red Fox",0.56331177923252
+"XC975581.mp3","Red Fox","Red Fox",0.509641073667697
+"XC973922.mp3","Eastern Gray Squirrel","Eastern Gray Squirrel",0.982958947680694
+"XC965013.mp3","Red Fox","Red Fox",0.846524165351144
+"XC963619.mp3","Western Roe Deer","Western Roe Deer",0.39192224261091
+"XC962059.mp3","Reeves's Muntjac","Western Red Deer",0.369644115136481
+"XC962058.mp3","Reeves's Muntjac","Eurasian Otter",0.731863554488329
+"XC962008.mp3","Western Roe Deer","Reeves's Muntjac",0.450418003211201
+"XC961979.mp3","Gray Wolf","Gray Wolf",0.790720615391563
+"XC961898.mp3","Eastern Gray Squirrel","Eastern Gray Squirrel",0.552914422645525
+"XC961382.mp3","Red Fox","Red Fox",0.731517540273051
+"XC961318.mp3","Western Roe Deer","Red Fox",0.580442464936714
+"XC960883.mp3","Red Fox","Red Fox",0.625368876287153
+"XC959743.mp3","Eurasian Red Squirrel","Pallas's Squirrel",0.410404953963971
+"XC953244.mp3","Western Roe Deer","Western Roe Deer",0.814599628076113
+"XC931550.mp3","Western Red Deer","Eurasian Wild Pig",0.401772921844421
+"XC924300.mp3","Western Roe Deer","Western Roe Deer",0.474035593085887
+"XC924299.mp3","Western Roe Deer","Western Roe Deer",0.967380082262806
+"XC871001.mp3","Western Roe Deer","Eurasian Beaver",0.377844935860189
+"XC834831.mp3","Western Roe Deer","Western Roe Deer",0.901805061575941
+"XC813757.mp3","Western Roe Deer","Western Roe Deer",0.54366157777374
+"XC806415.mp3","Western Roe Deer","Western Roe Deer",0.937447806550074
+"XC790774.mp3","Red Fox","Red Fox",0.935993821806093
+"XC782851.mp3","Red Fox","Red Fox",0.975633045466053
+"XC775785.mp3","Red Fox","Red Fox",0.889354013335496
+"XC767862.mp3","Western Red Deer","Guianan Red Howler",0.530789253373293
+"XC747912.mp3","Red Fox","Red-faced Black Spider Monkey",0.67116777304079
+"XC739295.mp3","Red Fox","Coyote",0.391913448265785
+"XC711547.mp3","Red Fox","Western Roe Deer",0.271809963069613
+"XC695790.mp3","Coypu","Coypu",0.455170501173077
+"XC677186.mp3","Red Fox","Coypu",0.453847566675076
+"XC556973.mp3","Red Fox","Western Red Deer",0.401630836867727
+"XC553906.mp3","Western Roe Deer","Red-faced Black Spider Monkey",0.784289248625878
+"XC1176627.mp3","European Fat Dormouse","European Fat Dormouse",0.9896834794203
+"XC1172337.mp3","Gray Wolf","Eurasian Wild Pig",0.548247992153893
+"XC1154186.mp3","Western Roe Deer","Eurasian Wild Pig",0.629146982577907
+"XC1090048.mp3","Eurasian Otter","Alpine Marmot",0.431451995564771
+"XC1079745.mp3","Eurasian Otter","Pallas's Squirrel",0.399872423968722
+"XC1064942.mp3","Gray Wolf","Red Fox",0.593908882517487
+"XC992278.mp3","Western Red Deer","Eastern Gray Squirrel",0.894402499244299
+"XC962060.mp3","Reeves's Muntjac","Red Fox",0.424218652512658
+"XC960773.mp3","Eurasian Otter","European Fat Dormouse",0.579025500646736
+"XC507153.mp3","Western Roe Deer","Western Roe Deer",0.937971704947817

@@ -1,0 +1,539 @@
+Species,Threat_Level,n
+African Forest Elephant,Dangerous,15
+African Golden Wolf,Weak,1
+African Palm Civet,Weak,2
+African Savanna Elephant,Dangerous,3
+Agile Gibbon,Dangerous,3
+Agile Mangabey,Dangerous,39
+Agile Wallaby,Unknown,2
+Alashan Ground Squirrel,Unknown,3
+Allen's Swamp Monkey,Dangerous,1
+Alpine Ibex,Unknown,7
+Alpine Marmot,Unknown,31
+Alpine Pika,Unknown,1
+Alston's Squirrel,Unknown,1
+Amami Rabbit,Unknown,4
+Amazon Bamboo Rat,Unknown,4
+Amazon Black Howler,Dangerous,2
+Amazon Dwarf Squirrel,Unknown,2
+American Bison,Dangerous,2
+American Mink,Weak,1
+American Pika,Unknown,4
+Andean Bear,Dangerous,2
+Andean Squirrel,Unknown,2
+Anderson's Squirrel,Unknown,1
+Arctic Fox,Weak,3
+Arctic Ground Squirrel,Unknown,3
+Ashy Titi,Weak,2
+Asian Elephant,Dangerous,2
+Asian Red-cheeked Squirrel,Unknown,7
+Atlantic Bamboo Rat,Unknown,1
+Azara's Agouti,Unknown,1
+Azara's Night Monkey,Weak,5
+Banteng,Dangerous,1
+Barasingha,Unknown,1
+Barbary Ground Squirrel,Unknown,2
+Barbary Macaque,Dangerous,3
+Bat-eared Fox,Weak,1
+Bearded Capuchin,Dangerous,2
+Bengal Sacred Langur,Dangerous,2
+Bengal Slow Loris,Unknown,1
+Beringian Ermine,Weak,1
+Black Bearded Saki,Weak,1
+Black Colobus,Dangerous,1
+Black Crested Mangabey,Dangerous,1
+Black Giant Squirrel,Weak,9
+Black Lion Tamarin,Weak,3
+Black Spider Monkey,Dangerous,4
+Black Wildebeest,Dangerous,2
+Black-and-gold Howler,Dangerous,4
+Black-backed Jackal,Weak,2
+Black-capped Marmot,Unknown,3
+Black-capped Squirrel Monkey,Weak,4
+Black-crested Sumatran Langur,Dangerous,1
+Black-faced Lion Tamarin,Weak,2
+Black-fronted Titi,Weak,3
+Black-headed Night Monkey,Weak,3
+Black-horned Capuchin,Dangerous,6
+Black-mantled Tamarin,Weak,6
+Black-rumped Agouti,Unknown,1
+Black-striped Squirrel,Unknown,2
+Black-tailed Marmoset,Weak,2
+Black-tailed Prairie Dog,Unknown,2
+Black-tufted-ear Marmoset,Weak,11
+Blond Titi,Weak,6
+Blue Duiker,Unknown,6
+Blue Monkey,Dangerous,5
+Blue Sheep,Weak,1
+Blue Wildebeest,Dangerous,3
+Bobak Marmot,Unknown,6
+Bobcat,Dangerous,1
+Boehm's Bush Squirrel,Unknown,1
+Bolivian Bamboo Rat,Unknown,5
+Bolivian Red Howler,Dangerous,9
+Bonobo,Dangerous,1
+Bontebok,Weak,1
+Bornean Mountain Ground Squirrel,Unknown,1
+Bornean Orangutan,Dangerous,4
+Bornean White-bearded Gibbon,Dangerous,2
+Borneo Black-banded Squirrel,Unknown,1
+Brandt's Vole,Unknown,6
+Brazilian Guinea Pig,Unknown,2
+Brown Bear,Dangerous,5
+Brown Capuchin,Dangerous,11
+Brown Howler,Dangerous,8
+Brown Lemur,Unknown,1
+Brown Rat,Unknown,10
+Brown-headed Spider Monkey,Dangerous,27
+Buffy-tufted-ear Marmoset,Weak,12
+Bush Dog,Weak,1
+Bushpig,Dangerous,1
+Busuanga Squirrel,Unknown,2
+Cacomistle,Weak,6
+Calamian Deer,Unknown,1
+California Ground Squirrel,Unknown,2
+Cambodian Striped Squirrel,Unknown,4
+Canadian Lynx,Dangerous,2
+Cape Buffalo,Dangerous,3
+Capped Langur,Dangerous,1
+Caribou,Dangerous,5
+Caribou,Unknown,5
+Caribou,Weak,20
+Caucasian Squirrel,Unknown,8
+Celebes Dwarf Squirrel,Unknown,1
+Central American Agouti,Unknown,1
+Central American Black Howler,Dangerous,3
+Central American Spider Monkey,Dangerous,3
+Chacma Baboon,Dangerous,9
+Chimpanzee,Dangerous,62
+Chinese Water Deer,Unknown,3
+Chital,Unknown,8
+Cliff Chipmunk,Unknown,1
+Coimbra-Filho's Titi,Weak,1
+Collared Peccary,Unknown,2
+Collared Pika,Unknown,3
+Collins's Squirrel Monkey,Weak,4
+Colombian Red Howler,Dangerous,15
+Colorado Chipmunk,Unknown,1
+Columbian Ground Squirrel,Unknown,1
+Common Brush-tailed Possum,Weak,6
+Common Eland,Unknown,1
+Common Fallow Deer,Dangerous,5
+Common Fallow Deer,Unknown,5
+Common Hamster,Unknown,2
+Common Hippopotamus,Dangerous,18
+Common Marmoset,Weak,7
+Common Patas Monkey,Dangerous,1
+Common Plains Viscacha,Unknown,4
+Common Red-rumped Agouti,Unknown,3
+Common Rock Squirrel,Unknown,2
+Common Shrew,Unknown,12
+Common Slender Mongoose,Weak,1
+Common Spotted Cuscus,Unknown,1
+Common Treeshrew,Unknown,2
+Common Warthog,Dangerous,2
+Common Wombat,Weak,1
+Common Woolly Monkey,Dangerous,4
+Coppery Brush-tailed Possum,Weak,1
+Coppery Titi,Weak,5
+Corsac Fox,Weak,10
+Cotton-top Tamarin,Weak,2
+Coyote,Weak,26
+Coypu,Weak,30
+Crab-eating Fox,Unknown,4
+Crab-eating Mongoose,Unknown,2
+Crab-eating Raccoon,Weak,1
+Crested Capuchin,Dangerous,1
+Crested Macaque,Dangerous,4
+Crowned Monkey,Dangerous,2
+Culion Tree Squirrel,Unknown,1
+Culpeo,Weak,1
+Darwin's Fox,Weak,1
+Daurian Ground Squirrel,Unknown,2
+Daurian Pika,Unknown,2
+De Brazza's Monkey,Dangerous,4
+Demidoff's Dwarf Galago,Unknown,6
+Deppe's Squirrel,Unknown,2
+Derby's Woolly Opossum,Unknown,1
+Diana Monkey,Dangerous,2
+Domestic Ass,Normal,6
+Domestic Cat,Normal,19
+Domestic Dog,Normal,7
+Domestic Goat,Normal,2
+Domestic Horse,Normal,1
+Domestic Pig,Normal,6
+Domestic Sheep,Normal,14
+Domestic Yak,Dangerous,1
+Douglas's Squirrel,Unknown,34
+Dromedary Camel,Dangerous,3
+Dusky Langur,Dangerous,12
+Dusky Palm Squirrel,Unknown,1
+Ear-spot Squirrel,Unknown,3
+East Javan Langur,Dangerous,2
+Eastern Black-handed Tamarin,Weak,3
+Eastern Chipmunk,Unknown,8
+Eastern Fox Squirrel,Unknown,1
+Eastern Gorilla,Dangerous,1
+Eastern Gray Gibbon,Dangerous,14
+Eastern Gray Kangaroo,Dangerous,1
+Eastern Gray Squirrel,Unknown,35
+Eastern Lowland Olingo,Weak,2
+Eastern Red-handed Howler,Dangerous,4
+Eastern Ring-tailed Possum,Unknown,5
+Eastern Roe Deer,Dangerous,1
+Eastern Roe Deer,Unknown,11
+Eastern Roe Deer,Weak,1
+Ecuadorian Squirrel Monkey,Weak,2
+Ecuadorian White-fronted Capuchin,Dangerous,2
+Egyptian Mongoose,Weak,5
+Emperor Tamarin,Weak,5
+Etruscan Shrew,Unknown,4
+Eurasian Beaver,Weak,48
+Eurasian Lynx,Dangerous,18
+Eurasian Otter,Dangerous,49
+Eurasian Pygmy Shrew,Unknown,13
+Eurasian Red Squirrel,Unknown,87
+Eurasian Water Vole,Unknown,1
+Eurasian Wild Pig,Dangerous,35
+European Badger,Weak,20
+European Fat Dormouse,Unknown,28
+European Garden Dormouse,Unknown,10
+European Hare,Unknown,4
+European Mole,Unknown,2
+European Pine Marten,Weak,9
+European Polecat,Weak,1
+European Rabbit,Unknown,3
+European Wildcat,Dangerous,18
+Finlayson's Squirrel,Unknown,3
+Fire-footed Rope Squirrel,Unknown,4
+Forest Giant Squirrel,Unknown,1
+Formosan Giant Flying Squirrel,Unknown,4
+Formosan Serow,Weak,5
+Fraternal Squirrel,Unknown,1
+Fremont's Squirrel,Unknown,1
+Gambian Sun Squirrel,Unknown,1
+Garnett's Greater Galago,Unknown,5
+Gayal,Dangerous,1
+Geoffroy's Tufted-ear Marmoset,Weak,2
+Germain's Langur,Dangerous,3
+Giant Otter,Dangerous,7
+Goeldi's Monkey,Weak,6
+Golden Jackal,Weak,43
+Golden Lion Tamarin,Weak,3
+Golden Snub-nosed Monkey,Dangerous,1
+Golden-backed Squirrel Monkey,Weak,2
+Golden-bellied Mangabey,Dangerous,1
+Golden-brown Uacari,Weak,3
+Golden-faced Saki,Weak,2
+Golden-headed Lion Tamarin,Weak,5
+Golden-mantled Saddle-back Tamarin,Weak,2
+Golden-rumped Sengi,Unknown,1
+Gray Marmot,Unknown,14
+Gray Wolf,Dangerous,40
+Gray's Bald-faced Saki,Weak,1
+Gray-bellied Squirrel,Unknown,10
+Gray-cheeked Mangabey,Dangerous,9
+Gray-legged Night Monkey,Weak,2
+Great Gerbil,Unknown,3
+Great Sangihe Tarsier,Unknown,1
+Greater Capybara,Weak,8
+Greater Kudu,Unknown,2
+Greater One-horned Rhinoceros,Dangerous,1
+Greater White-toothed Shrew,Unknown,6
+Green Bush Squirrel,Unknown,1
+Green Monkey,Dangerous,1
+Guayaquil Squirrel,Unknown,1
+Guereza,Dangerous,19
+Guianan Bearded Saki,Weak,1
+Guianan Red Howler,Dangerous,53
+Guianan Squirrel,Unknown,11
+Guianan Squirrel Monkey,Weak,8
+Guianan Weeper Capuchin,Dangerous,1
+Gunnison's Prairie Dog,Unknown,1
+Gursky's Spectral Tarsier,Unknown,6
+Harris's Antelope Squirrel,Unknown,1
+Hazel Dormouse,Unknown,1
+Himalayan Marmot,Unknown,2
+Himalayan Striped Squirrel,Unknown,13
+Hoary Marmot,Unknown,1
+Horsfield's Treeshrew,Unknown,1
+House Mouse,Unknown,2
+Human,Unknown,1
+Humboldt's Squirrel Monkey,Weak,3
+Humboldt's White-fronted Capuchin,Dangerous,3
+Iberian Lynx,Dangerous,2
+Identity unknown,Unknown,309
+Impala,Weak,4
+Indian Giant Squirrel,Weak,1
+Indian Palm Squirrel,Unknown,8
+Indochinese Gray Langur,Dangerous,1
+Indri,Weak,6
+Inornate Squirrel,Unknown,5
+Irrawaddy Squirrel,Unknown,3
+Island Fox,Unknown,1
+Jaguar,Dangerous,18
+Jaguarundi,Dangerous,1
+Japanese Macaque,Dangerous,1
+Javan Deer,Unknown,2
+Jentink's Squirrel,Unknown,2
+Ka'apor Capuchin,Dangerous,2
+Kenya Coast Dwarf Galago,Unknown,60
+Kinda Baboon,Dangerous,3
+King Colobus,Dangerous,1
+Kinkajou,Weak,5
+Kloss's Gibbon,Dangerous,2
+Koala,Weak,6
+Krefft's Glider,Unknown,2
+Laos Langur,Dangerous,1
+Lar Gibbon,Dangerous,28
+Large Treeshrew,Unknown,1
+Least Chipmunk,Unknown,2
+Least Pygmy Squirrel,Unknown,4
+Least Weasel,Weak,3
+Leopard,Dangerous,8
+Lesser Grison,Weak,2
+Lesser White-toothed Shrew,Unknown,2
+Lesson's Saddle-back Tamarin,Weak,7
+Lion,Dangerous,12
+Little Ground Squirrel,Unknown,6
+Llama,Weak,1
+Long-nosed Bandicoot,Unknown,1
+Long-tailed Macaque,Dangerous,9
+Low's Squirrel,Unknown,3
+Lowe's Monkey,Dangerous,3
+Lowland Paca,Weak,2
+Lowland Tapir,Weak,3
+Madidi Titi,Weak,2
+Madras Treeshrew,Unknown,1
+Makassar Tarsier,Unknown,1
+Malayan Porcupine,Weak,2
+Malbrouck Monkey,Dangerous,1
+Mandrill,Dangerous,4
+Mantled Howler,Dangerous,61
+Marañón White-fronted Capuchin,Dangerous,3
+Maritime Striped Squirrel,Unknown,26
+Maroon Langur,Dangerous,5
+Masked Palm Civet,Weak,3
+Masked Titi,Weak,2
+Meerkat,Weak,2
+Mentawai Langur,Dangerous,1
+Mentawai Three-striped Squirrel,Unknown,1
+Merriam's Chipmunk,Unknown,6
+Midas Tamarin,Weak,7
+Miller's Saki,Weak,1
+Milne-Edwards's Sportive Lemur,Weak,2
+Moloch Gibbon,Dangerous,6
+Mona Monkey,Dangerous,2
+Mongolian Gazelle,Weak,2
+Moose,Dangerous,13
+Mottled-face Tamarin,Weak,1
+Mountain Tapir,Weak,1
+Mountain Zebra,Dangerous,1
+Mustached Monkey,Dangerous,16
+Neotropical Otter,Unknown,4
+Neotropical Pygmy Squirrel,Unknown,1
+Nepal Sacred Langur,Dangerous,1
+New Britain Cuscus,Unknown,2
+Nicobar Treeshrew,Unknown,1
+Niemitz's Tarsier,Unknown,1
+Nine-banded Armadillo,Unknown,2
+North American Porcupine,Weak,3
+North American Red Squirrel,Unknown,39
+North American River Otter,Unknown,2
+Northern Amazon Red Squirrel,Unknown,2
+Northern Bamboo Lemur,Weak,3
+Northern Bushbuck,Unknown,4
+Northern Chamois,Weak,5
+Northern Gray Fox,Unknown,4
+Northern Palawan Tree Squirrel,Unknown,5
+Northern Palm Civet,Weak,3
+Northern Palm Squirrel,Unknown,8
+Northern Pika,Unknown,2
+Northern Pygmy Marmoset,Weak,3
+Northern Raccoon,Weak,7
+Northern Red Muntjak,Unknown,14
+Northern Smooth-tailed Treeshrew,Unknown,1
+Northern Talapoin Monkey,Weak,1
+Northern Treeshrew,Unknown,4
+Northern White-breasted Hedgehog,Unknown,7
+Northern Yellow-cheeked Crested Gibbon,Dangerous,2
+Norway Brown Lemming,Unknown,1
+Olive Baboon,Dangerous,8
+Orange-bellied Himalayan Squirrel,Unknown,3
+Ornate Titi,Weak,1
+Palawan Treeshrew,Unknown,2
+Pale Giant Squirrel,Weak,4
+Pale Titi,Weak,1
+Pale-thighed Langur,Dangerous,8
+Pallas's Pika,Unknown,10
+Pallas's Squirrel,Unknown,53
+Pampas Deer,Weak,1
+Pampas Fox,Weak,6
+Peleng Tarsier,Unknown,4
+Pere David's Rock Squirrel,Unknown,4
+Perny's Long-nosed Squirrel,Unknown,4
+Peters's Duiker,Weak,2
+Pied Bare-faced Tamarin,Weak,2
+Pileated Gibbon,Dangerous,2
+Plains Zebra,Dangerous,2
+Plantain Squirrel,Unknown,6
+Plateau Pika,Unknown,3
+Prevost's Squirrel,Unknown,7
+Proboscis Monkey,Dangerous,4
+Pronghorn,Weak,1
+Puku,Unknown,3
+Purple-faced Langur,Dangerous,3
+Putty-nosed Monkey,Dangerous,16
+Raffles's Banded Langur,Dangerous,4
+Red Bush Squirrel,Unknown,2
+Red Fox,Weak,391
+Red Giant Flying Squirrel,Unknown,2
+Red River Hog,Dangerous,4
+Red-bellied Lemur,Unknown,6
+Red-bellied Tamarin,Weak,2
+Red-bellied Titi,Weak,1
+Red-collared Brown Lemur,Unknown,2
+Red-crowned Titi,Weak,1
+Red-faced Black Spider Monkey,Dangerous,46
+Red-fronted Brown Lemur,Unknown,1
+Red-legged Pademelon,Unknown,1
+Red-legged Sun Squirrel,Unknown,2
+Red-nosed Bearded Saki,Weak,4
+Red-tailed Monkey,Dangerous,2
+Red-tailed Squirrel,Unknown,6
+Reeves's Muntjac,Unknown,66
+Rhesus Macaque,Dangerous,5
+Ribboned Rope Squirrel,Unknown,1
+Ring-tailed Lemur,Weak,1
+Ring-tailed Vontsira,Unknown,1
+Robinson's Banded Langur,Dangerous,2
+Rock Hyrax,Weak,5
+Round-tailed Ground Squirrel,Unknown,2
+Rufous Brown Lemur,Unknown,1
+Rufous-bellied Pademelon,Unknown,1
+Russet Ground Squirrel,Unknown,2
+Sambar,Unknown,18
+San Martín Titi,Weak,3
+Sanford's Brown Lemur,Unknown,3
+Santa Marta White-fronted Capuchin,Dangerous,2
+Santarém Marmoset,Weak,2
+Selangor Silvery Langur,Dangerous,1
+Short-beaked Echidna,Unknown,1
+Short-eared Brush-tailed Possum,Weak,5
+Siamang,Dangerous,17
+Siberian Chipmunk,Unknown,5
+Siberian Weasel,Weak,1
+Siberut Flying Squirrel,Unknown,1
+Siberut Macaque,Dangerous,1
+Side-striped Jackal,Weak,3
+Sika Deer,Dangerous,4
+Silvery Marmoset,Weak,1
+Singing Vole,Unknown,1
+Sitatunga,Unknown,1
+Skywalker Hoolock Gibbon,Dangerous,2
+Slender Squirrel,Unknown,4
+Small-toothed Palm Civet,Weak,1
+Smith's Bush Squirrel,Unknown,5
+Smooth-coated Otter,Dangerous,4
+Snethlage's Marmoset,Weak,1
+Snow Leopard,Dangerous,1
+Sooty Mangabey,Dangerous,1
+Soundscape,Unknown,6
+South American Coati,Weak,11
+Southern Bahian Titi,Weak,1
+Southern Black-eared Opossum,Weak,2
+Southern Bushbuck,Unknown,2
+Southern Flying Squirrel,Unknown,3
+Southern Gray Gibbon,Dangerous,3
+Southern Lesser Galago,Unknown,2
+Southern Muriqui,Dangerous,3
+Southern Needle-clawed Galago,Unknown,4
+Southern Palawan Tree Squirrel,Unknown,2
+Southern Palm Civet,Weak,2
+Southern Pig-tailed Macaque,Dangerous,2
+Southern Red Muntjac,Unknown,1
+Southern Tree Hyrax,Weak,6
+Southern Yellow-cheeked Crested Gibbon,Dangerous,14
+Speckled Ground Squirrel,Unknown,1
+Spix's Night Monkey,Weak,1
+Spix's Saddle-back Tamarin,Weak,2
+Spot-nosed Monkey,Dangerous,4
+Spotted Hyena,Dangerous,8
+Spotted-tailed Quoll,Weak,2
+Springbok,Weak,1
+Squirrel Glider,Unknown,4
+Sri Lankan Giant Squirrel,Weak,1
+Steppe Field Mouse,Unknown,1
+Stone Marten,Weak,31
+Sugar Glider,Unknown,3
+Sumatran Mountain Squirrel,Unknown,1
+Suni,Unknown,2
+Swinhoe's Striped Squirrel,Unknown,2
+Taiga Vole,Unknown,1
+Tailless Tenrec,Unknown,2
+Taiwan Giant Flying Squirrel,Unknown,4
+Taiwanese Macaque,Dangerous,8
+Tantalus Monkey,Dangerous,1
+Tanzania Coast Dwarf Galago,Unknown,1
+Tarbagan Marmot,Unknown,7
+Tasmanian Devil,Dangerous,1
+Tauren Ground Squirrel,Unknown,1
+Taurine Cattle,Weak,11
+Terai Sacred Langur,Dangerous,1
+Thick-tailed Greater Galago,Unknown,2
+Thirteen-lined Ground Squirrel,Unknown,2
+Thomas's Dwarf Galago,Unknown,4
+Three-striped Ground Squirrel,Unknown,3
+Tibetan Macaque,Dangerous,1
+Tiger,Dangerous,3
+Tonkean Macaque,Dangerous,1
+Toppin's Titi,Weak,13
+Townsend's Chipmunk,Unknown,5
+Tufted Pygmy Squirrel,Unknown,2
+Uinta Ground Squirrel,Unknown,1
+Upper Guinea Red Colobus,Dangerous,2
+Uta Hick's Bearded Saki,Weak,1
+Variegated Squirrel,Unknown,2
+Vervet Monkey,Dangerous,4
+Wapiti,Dangerous,6
+Waterbuck,Unknown,1
+Weddell's Saddle-back Tamarin,Weak,5
+West European Hedgehog,Unknown,15
+Western Black-handed Tamarin,Weak,1
+Western Dwarf Squirrel,Unknown,2
+Western Gorilla,Dangerous,7
+Western Gray Kangaroo,Dangerous,1
+Western Hoolock Gibbon,Dangerous,6
+Western Red Deer,Dangerous,60
+Western Ring-tailed Possum,Unknown,1
+Western Roe Deer,Dangerous,38
+Western Roe Deer,Unknown,153
+Western Roe Deer,Weak,12
+Western Tree Hyrax,Weak,8
+White Rhinoceros,Dangerous,3
+White-cheeked Macaque,Dangerous,1
+White-chested Titi,Weak,1
+White-collared Brown Lemur,Unknown,1
+White-eared Titi,Weak,3
+White-faced Saki,Weak,9
+White-footed Tamarin,Weak,6
+White-fronted Brown Lemur,Unknown,1
+White-headed Langur,Dangerous,1
+White-lipped Peccary,Dangerous,4
+White-nosed Coati,Weak,1
+White-tailed Deer,Weak,9
+White-whiskered Spider Monkey,Dangerous,3
+Whitish Dwarf Squirrel,Unknown,7
+Wied's Marmoset,Weak,1
+Wild Yak,Dangerous,1
+Woodchuck,Unknown,1
+Wyoming Ground Squirrel,Unknown,1
+Yellow Baboon,Dangerous,3
+Yellow Ground Squirrel,Unknown,2
+Yellow-bellied Glider,Unknown,4
+Yellow-bellied Marmot,Unknown,1
+Yellow-handed Titi,Weak,1
+Yellow-pine Chipmunk,Unknown,7
+Yellow-tailed Woolly Monkey,Dangerous,1
+Yellow-throated Marten,Weak,5
+Yucatan Squirrel,Unknown,2

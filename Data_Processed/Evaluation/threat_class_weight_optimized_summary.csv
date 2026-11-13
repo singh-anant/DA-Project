@@ -1,0 +1,2 @@
+"Model","Cost","Gamma","Normal_Multiplier","Test_Accuracy","Test_Balanced_Accuracy","Test_Macro_F1"
+"Threat SVM - Class Weight Optimized",100,0.01,1,0.783369803063457,0.592677606631095,0.60373220950638

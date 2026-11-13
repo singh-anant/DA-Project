@@ -1,0 +1,5 @@
+DEFRA_Category,Threat_Level,n
+1,Dangerous,1158
+2,Weak,1075
+3,Normal,55
+NA,Unknown,1623

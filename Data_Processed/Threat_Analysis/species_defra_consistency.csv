@@ -1,0 +1,532 @@
+Species,Total_Records,DEFRA_Categories
+Caribou,30,3
+Eastern Roe Deer,13,3
+Western Roe Deer,203,3
+Common Fallow Deer,10,2
+African Forest Elephant,15,1
+African Golden Wolf,1,1
+African Palm Civet,2,1
+African Savanna Elephant,3,1
+Agile Gibbon,3,1
+Agile Mangabey,39,1
+Agile Wallaby,2,1
+Alashan Ground Squirrel,3,1
+Allen's Swamp Monkey,1,1
+Alpine Ibex,7,1
+Alpine Marmot,31,1
+Alpine Pika,1,1
+Alston's Squirrel,1,1
+Amami Rabbit,4,1
+Amazon Bamboo Rat,4,1
+Amazon Black Howler,2,1
+Amazon Dwarf Squirrel,2,1
+American Bison,2,1
+American Mink,1,1
+American Pika,4,1
+Andean Bear,2,1
+Andean Squirrel,2,1
+Anderson's Squirrel,1,1
+Arctic Fox,3,1
+Arctic Ground Squirrel,3,1
+Ashy Titi,2,1
+Asian Elephant,2,1
+Asian Red-cheeked Squirrel,7,1
+Atlantic Bamboo Rat,1,1
+Azara's Agouti,1,1
+Azara's Night Monkey,5,1
+Banteng,1,1
+Barasingha,1,1
+Barbary Ground Squirrel,2,1
+Barbary Macaque,3,1
+Bat-eared Fox,1,1
+Bearded Capuchin,2,1
+Bengal Sacred Langur,2,1
+Bengal Slow Loris,1,1
+Beringian Ermine,1,1
+Black Bearded Saki,1,1
+Black Colobus,1,1
+Black Crested Mangabey,1,1
+Black Giant Squirrel,9,1
+Black Lion Tamarin,3,1
+Black Spider Monkey,4,1
+Black Wildebeest,2,1
+Black-and-gold Howler,4,1
+Black-backed Jackal,2,1
+Black-capped Marmot,3,1
+Black-capped Squirrel Monkey,4,1
+Black-crested Sumatran Langur,1,1
+Black-faced Lion Tamarin,2,1
+Black-fronted Titi,3,1
+Black-headed Night Monkey,3,1
+Black-horned Capuchin,6,1
+Black-mantled Tamarin,6,1
+Black-rumped Agouti,1,1
+Black-striped Squirrel,2,1
+Black-tailed Marmoset,2,1
+Black-tailed Prairie Dog,2,1
+Black-tufted-ear Marmoset,11,1
+Blond Titi,6,1
+Blue Duiker,6,1
+Blue Monkey,5,1
+Blue Sheep,1,1
+Blue Wildebeest,3,1
+Bobak Marmot,6,1
+Bobcat,1,1
+Boehm's Bush Squirrel,1,1
+Bolivian Bamboo Rat,5,1
+Bolivian Red Howler,9,1
+Bonobo,1,1
+Bontebok,1,1
+Bornean Mountain Ground Squirrel,1,1
+Bornean Orangutan,4,1
+Bornean White-bearded Gibbon,2,1
+Borneo Black-banded Squirrel,1,1
+Brandt's Vole,6,1
+Brazilian Guinea Pig,2,1
+Brown Bear,5,1
+Brown Capuchin,11,1
+Brown Howler,8,1
+Brown Lemur,1,1
+Brown Rat,10,1
+Brown-headed Spider Monkey,27,1
+Buffy-tufted-ear Marmoset,12,1
+Bush Dog,1,1
+Bushpig,1,1
+Busuanga Squirrel,2,1
+Cacomistle,6,1
+Calamian Deer,1,1
+California Ground Squirrel,2,1
+Cambodian Striped Squirrel,4,1
+Canadian Lynx,2,1
+Cape Buffalo,3,1
+Capped Langur,1,1
+Caucasian Squirrel,8,1
+Celebes Dwarf Squirrel,1,1
+Central American Agouti,1,1
+Central American Black Howler,3,1
+Central American Spider Monkey,3,1
+Chacma Baboon,9,1
+Chimpanzee,62,1
+Chinese Water Deer,3,1
+Chital,8,1
+Cliff Chipmunk,1,1
+Coimbra-Filho's Titi,1,1
+Collared Peccary,2,1
+Collared Pika,3,1
+Collins's Squirrel Monkey,4,1
+Colombian Red Howler,15,1
+Colorado Chipmunk,1,1
+Columbian Ground Squirrel,1,1
+Common Brush-tailed Possum,6,1
+Common Eland,1,1
+Common Hamster,2,1
+Common Hippopotamus,18,1
+Common Marmoset,7,1
+Common Patas Monkey,1,1
+Common Plains Viscacha,4,1
+Common Red-rumped Agouti,3,1
+Common Rock Squirrel,2,1
+Common Shrew,12,1
+Common Slender Mongoose,1,1
+Common Spotted Cuscus,1,1
+Common Treeshrew,2,1
+Common Warthog,2,1
+Common Wombat,1,1
+Common Woolly Monkey,4,1
+Coppery Brush-tailed Possum,1,1
+Coppery Titi,5,1
+Corsac Fox,10,1
+Cotton-top Tamarin,2,1
+Coyote,26,1
+Coypu,30,1
+Crab-eating Fox,4,1
+Crab-eating Mongoose,2,1
+Crab-eating Raccoon,1,1
+Crested Capuchin,1,1
+Crested Macaque,4,1
+Crowned Monkey,2,1
+Culion Tree Squirrel,1,1
+Culpeo,1,1
+Darwin's Fox,1,1
+Daurian Ground Squirrel,2,1
+Daurian Pika,2,1
+De Brazza's Monkey,4,1
+Demidoff's Dwarf Galago,6,1
+Deppe's Squirrel,2,1
+Derby's Woolly Opossum,1,1
+Diana Monkey,2,1
+Domestic Ass,6,1
+Domestic Cat,19,1
+Domestic Dog,7,1
+Domestic Goat,2,1
+Domestic Horse,1,1
+Domestic Pig,6,1
+Domestic Sheep,14,1
+Domestic Yak,1,1
+Douglas's Squirrel,34,1
+Dromedary Camel,3,1
+Dusky Langur,12,1
+Dusky Palm Squirrel,1,1
+Ear-spot Squirrel,3,1
+East Javan Langur,2,1
+Eastern Black-handed Tamarin,3,1
+Eastern Chipmunk,8,1
+Eastern Fox Squirrel,1,1
+Eastern Gorilla,1,1
+Eastern Gray Gibbon,14,1
+Eastern Gray Kangaroo,1,1
+Eastern Gray Squirrel,35,1
+Eastern Lowland Olingo,2,1
+Eastern Red-handed Howler,4,1
+Eastern Ring-tailed Possum,5,1
+Ecuadorian Squirrel Monkey,2,1
+Ecuadorian White-fronted Capuchin,2,1
+Egyptian Mongoose,5,1
+Emperor Tamarin,5,1
+Etruscan Shrew,4,1
+Eurasian Beaver,48,1
+Eurasian Lynx,18,1
+Eurasian Otter,49,1
+Eurasian Pygmy Shrew,13,1
+Eurasian Red Squirrel,87,1
+Eurasian Water Vole,1,1
+Eurasian Wild Pig,35,1
+European Badger,20,1
+European Fat Dormouse,28,1
+European Garden Dormouse,10,1
+European Hare,4,1
+European Mole,2,1
+European Pine Marten,9,1
+European Polecat,1,1
+European Rabbit,3,1
+European Wildcat,18,1
+Finlayson's Squirrel,3,1
+Fire-footed Rope Squirrel,4,1
+Forest Giant Squirrel,1,1
+Formosan Giant Flying Squirrel,4,1
+Formosan Serow,5,1
+Fraternal Squirrel,1,1
+Fremont's Squirrel,1,1
+Gambian Sun Squirrel,1,1
+Garnett's Greater Galago,5,1
+Gayal,1,1
+Geoffroy's Tufted-ear Marmoset,2,1
+Germain's Langur,3,1
+Giant Otter,7,1
+Goeldi's Monkey,6,1
+Golden Jackal,43,1
+Golden Lion Tamarin,3,1
+Golden Snub-nosed Monkey,1,1
+Golden-backed Squirrel Monkey,2,1
+Golden-bellied Mangabey,1,1
+Golden-brown Uacari,3,1
+Golden-faced Saki,2,1
+Golden-headed Lion Tamarin,5,1
+Golden-mantled Saddle-back Tamarin,2,1
+Golden-rumped Sengi,1,1
+Gray Marmot,14,1
+Gray Wolf,40,1
+Gray's Bald-faced Saki,1,1
+Gray-bellied Squirrel,10,1
+Gray-cheeked Mangabey,9,1
+Gray-legged Night Monkey,2,1
+Great Gerbil,3,1
+Great Sangihe Tarsier,1,1
+Greater Capybara,8,1
+Greater Kudu,2,1
+Greater One-horned Rhinoceros,1,1
+Greater White-toothed Shrew,6,1
+Green Bush Squirrel,1,1
+Green Monkey,1,1
+Guayaquil Squirrel,1,1
+Guereza,19,1
+Guianan Bearded Saki,1,1
+Guianan Red Howler,53,1
+Guianan Squirrel,11,1
+Guianan Squirrel Monkey,8,1
+Guianan Weeper Capuchin,1,1
+Gunnison's Prairie Dog,1,1
+Gursky's Spectral Tarsier,6,1
+Harris's Antelope Squirrel,1,1
+Hazel Dormouse,1,1
+Himalayan Marmot,2,1
+Himalayan Striped Squirrel,13,1
+Hoary Marmot,1,1
+Horsfield's Treeshrew,1,1
+House Mouse,2,1
+Human,1,1
+Humboldt's Squirrel Monkey,3,1
+Humboldt's White-fronted Capuchin,3,1
+Iberian Lynx,2,1
+Identity unknown,309,1
+Impala,4,1
+Indian Giant Squirrel,1,1
+Indian Palm Squirrel,8,1
+Indochinese Gray Langur,1,1
+Indri,6,1
+Inornate Squirrel,5,1
+Irrawaddy Squirrel,3,1
+Island Fox,1,1
+Jaguar,18,1
+Jaguarundi,1,1
+Japanese Macaque,1,1
+Javan Deer,2,1
+Jentink's Squirrel,2,1
+Ka'apor Capuchin,2,1
+Kenya Coast Dwarf Galago,60,1
+Kinda Baboon,3,1
+King Colobus,1,1
+Kinkajou,5,1
+Kloss's Gibbon,2,1
+Koala,6,1
+Krefft's Glider,2,1
+Laos Langur,1,1
+Lar Gibbon,28,1
+Large Treeshrew,1,1
+Least Chipmunk,2,1
+Least Pygmy Squirrel,4,1
+Least Weasel,3,1
+Leopard,8,1
+Lesser Grison,2,1
+Lesser White-toothed Shrew,2,1
+Lesson's Saddle-back Tamarin,7,1
+Lion,12,1
+Little Ground Squirrel,6,1
+Llama,1,1
+Long-nosed Bandicoot,1,1
+Long-tailed Macaque,9,1
+Low's Squirrel,3,1
+Lowe's Monkey,3,1
+Lowland Paca,2,1
+Lowland Tapir,3,1
+Madidi Titi,2,1
+Madras Treeshrew,1,1
+Makassar Tarsier,1,1
+Malayan Porcupine,2,1
+Malbrouck Monkey,1,1
+Mandrill,4,1
+Mantled Howler,61,1
+Marañón White-fronted Capuchin,3,1
+Maritime Striped Squirrel,26,1
+Maroon Langur,5,1
+Masked Palm Civet,3,1
+Masked Titi,2,1
+Meerkat,2,1
+Mentawai Langur,1,1
+Mentawai Three-striped Squirrel,1,1
+Merriam's Chipmunk,6,1
+Midas Tamarin,7,1
+Miller's Saki,1,1
+Milne-Edwards's Sportive Lemur,2,1
+Moloch Gibbon,6,1
+Mona Monkey,2,1
+Mongolian Gazelle,2,1
+Moose,13,1
+Mottled-face Tamarin,1,1
+Mountain Tapir,1,1
+Mountain Zebra,1,1
+Mustached Monkey,16,1
+Neotropical Otter,4,1
+Neotropical Pygmy Squirrel,1,1
+Nepal Sacred Langur,1,1
+New Britain Cuscus,2,1
+Nicobar Treeshrew,1,1
+Niemitz's Tarsier,1,1
+Nine-banded Armadillo,2,1
+North American Porcupine,3,1
+North American Red Squirrel,39,1
+North American River Otter,2,1
+Northern Amazon Red Squirrel,2,1
+Northern Bamboo Lemur,3,1
+Northern Bushbuck,4,1
+Northern Chamois,5,1
+Northern Gray Fox,4,1
+Northern Palawan Tree Squirrel,5,1
+Northern Palm Civet,3,1
+Northern Palm Squirrel,8,1
+Northern Pika,2,1
+Northern Pygmy Marmoset,3,1
+Northern Raccoon,7,1
+Northern Red Muntjak,14,1
+Northern Smooth-tailed Treeshrew,1,1
+Northern Talapoin Monkey,1,1
+Northern Treeshrew,4,1
+Northern White-breasted Hedgehog,7,1
+Northern Yellow-cheeked Crested Gibbon,2,1
+Norway Brown Lemming,1,1
+Olive Baboon,8,1
+Orange-bellied Himalayan Squirrel,3,1
+Ornate Titi,1,1
+Palawan Treeshrew,2,1
+Pale Giant Squirrel,4,1
+Pale Titi,1,1
+Pale-thighed Langur,8,1
+Pallas's Pika,10,1
+Pallas's Squirrel,53,1
+Pampas Deer,1,1
+Pampas Fox,6,1
+Peleng Tarsier,4,1
+Pere David's Rock Squirrel,4,1
+Perny's Long-nosed Squirrel,4,1
+Peters's Duiker,2,1
+Pied Bare-faced Tamarin,2,1
+Pileated Gibbon,2,1
+Plains Zebra,2,1
+Plantain Squirrel,6,1
+Plateau Pika,3,1
+Prevost's Squirrel,7,1
+Proboscis Monkey,4,1
+Pronghorn,1,1
+Puku,3,1
+Purple-faced Langur,3,1
+Putty-nosed Monkey,16,1
+Raffles's Banded Langur,4,1
+Red Bush Squirrel,2,1
+Red Fox,391,1
+Red Giant Flying Squirrel,2,1
+Red River Hog,4,1
+Red-bellied Lemur,6,1
+Red-bellied Tamarin,2,1
+Red-bellied Titi,1,1
+Red-collared Brown Lemur,2,1
+Red-crowned Titi,1,1
+Red-faced Black Spider Monkey,46,1
+Red-fronted Brown Lemur,1,1
+Red-legged Pademelon,1,1
+Red-legged Sun Squirrel,2,1
+Red-nosed Bearded Saki,4,1
+Red-tailed Monkey,2,1
+Red-tailed Squirrel,6,1
+Reeves's Muntjac,66,1
+Rhesus Macaque,5,1
+Ribboned Rope Squirrel,1,1
+Ring-tailed Lemur,1,1
+Ring-tailed Vontsira,1,1
+Robinson's Banded Langur,2,1
+Rock Hyrax,5,1
+Round-tailed Ground Squirrel,2,1
+Rufous Brown Lemur,1,1
+Rufous-bellied Pademelon,1,1
+Russet Ground Squirrel,2,1
+Sambar,18,1
+San Martín Titi,3,1
+Sanford's Brown Lemur,3,1
+Santa Marta White-fronted Capuchin,2,1
+Santarém Marmoset,2,1
+Selangor Silvery Langur,1,1
+Short-beaked Echidna,1,1
+Short-eared Brush-tailed Possum,5,1
+Siamang,17,1
+Siberian Chipmunk,5,1
+Siberian Weasel,1,1
+Siberut Flying Squirrel,1,1
+Siberut Macaque,1,1
+Side-striped Jackal,3,1
+Sika Deer,4,1
+Silvery Marmoset,1,1
+Singing Vole,1,1
+Sitatunga,1,1
+Skywalker Hoolock Gibbon,2,1
+Slender Squirrel,4,1
+Small-toothed Palm Civet,1,1
+Smith's Bush Squirrel,5,1
+Smooth-coated Otter,4,1
+Snethlage's Marmoset,1,1
+Snow Leopard,1,1
+Sooty Mangabey,1,1
+Soundscape,6,1
+South American Coati,11,1
+Southern Bahian Titi,1,1
+Southern Black-eared Opossum,2,1
+Southern Bushbuck,2,1
+Southern Flying Squirrel,3,1
+Southern Gray Gibbon,3,1
+Southern Lesser Galago,2,1
+Southern Muriqui,3,1
+Southern Needle-clawed Galago,4,1
+Southern Palawan Tree Squirrel,2,1
+Southern Palm Civet,2,1
+Southern Pig-tailed Macaque,2,1
+Southern Red Muntjac,1,1
+Southern Tree Hyrax,6,1
+Southern Yellow-cheeked Crested Gibbon,14,1
+Speckled Ground Squirrel,1,1
+Spix's Night Monkey,1,1
+Spix's Saddle-back Tamarin,2,1
+Spot-nosed Monkey,4,1
+Spotted Hyena,8,1
+Spotted-tailed Quoll,2,1
+Springbok,1,1
+Squirrel Glider,4,1
+Sri Lankan Giant Squirrel,1,1
+Steppe Field Mouse,1,1
+Stone Marten,31,1
+Sugar Glider,3,1
+Sumatran Mountain Squirrel,1,1
+Suni,2,1
+Swinhoe's Striped Squirrel,2,1
+Taiga Vole,1,1
+Tailless Tenrec,2,1
+Taiwan Giant Flying Squirrel,4,1
+Taiwanese Macaque,8,1
+Tantalus Monkey,1,1
+Tanzania Coast Dwarf Galago,1,1
+Tarbagan Marmot,7,1
+Tasmanian Devil,1,1
+Tauren Ground Squirrel,1,1
+Taurine Cattle,11,1
+Terai Sacred Langur,1,1
+Thick-tailed Greater Galago,2,1
+Thirteen-lined Ground Squirrel,2,1
+Thomas's Dwarf Galago,4,1
+Three-striped Ground Squirrel,3,1
+Tibetan Macaque,1,1
+Tiger,3,1
+Tonkean Macaque,1,1
+Toppin's Titi,13,1
+Townsend's Chipmunk,5,1
+Tufted Pygmy Squirrel,2,1
+Uinta Ground Squirrel,1,1
+Upper Guinea Red Colobus,2,1
+Uta Hick's Bearded Saki,1,1
+Variegated Squirrel,2,1
+Vervet Monkey,4,1
+Wapiti,6,1
+Waterbuck,1,1
+Weddell's Saddle-back Tamarin,5,1
+West European Hedgehog,15,1
+Western Black-handed Tamarin,1,1
+Western Dwarf Squirrel,2,1
+Western Gorilla,7,1
+Western Gray Kangaroo,1,1
+Western Hoolock Gibbon,6,1
+Western Red Deer,60,1
+Western Ring-tailed Possum,1,1
+Western Tree Hyrax,8,1
+White Rhinoceros,3,1
+White-cheeked Macaque,1,1
+White-chested Titi,1,1
+White-collared Brown Lemur,1,1
+White-eared Titi,3,1
+White-faced Saki,9,1
+White-footed Tamarin,6,1
+White-fronted Brown Lemur,1,1
+White-headed Langur,1,1
+White-lipped Peccary,4,1
+White-nosed Coati,1,1
+White-tailed Deer,9,1
+White-whiskered Spider Monkey,3,1
+Whitish Dwarf Squirrel,7,1
+Wied's Marmoset,1,1
+Wild Yak,1,1
+Woodchuck,1,1
+Wyoming Ground Squirrel,1,1
+Yellow Baboon,3,1
+Yellow Ground Squirrel,2,1
+Yellow-bellied Glider,4,1
+Yellow-bellied Marmot,1,1
+Yellow-handed Titi,1,1
+Yellow-pine Chipmunk,7,1
+Yellow-tailed Woolly Monkey,1,1
+Yellow-throated Marten,5,1
+Yucatan Squirrel,2,1

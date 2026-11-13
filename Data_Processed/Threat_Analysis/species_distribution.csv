@@ -1,0 +1,286 @@
+"Threat_Level","Species","Recordings"
+"Dangerous","Chimpanzee",49
+"Dangerous","Mantled Howler",49
+"Dangerous","Western Red Deer",44
+"Dangerous","Guianan Red Howler",41
+"Dangerous","Red-faced Black Spider Monkey",38
+"Dangerous","Eurasian Otter",37
+"Dangerous","Gray Wolf",33
+"Dangerous","Agile Mangabey",31
+"Dangerous","Eurasian Wild Pig",30
+"Dangerous","Western Roe Deer",28
+"Dangerous","Lar Gibbon",24
+"Dangerous","Brown-headed Spider Monkey",23
+"Dangerous","Eurasian Lynx",15
+"Dangerous","Guereza",15
+"Dangerous","Jaguar",15
+"Dangerous","Siamang",14
+"Dangerous","Common Hippopotamus",13
+"Dangerous","Eastern Gray Gibbon",13
+"Dangerous","Mustached Monkey",13
+"Dangerous","European Wildcat",12
+"Dangerous","Lion",12
+"Dangerous","Moose",12
+"Dangerous","African Forest Elephant",11
+"Dangerous","Putty-nosed Monkey",11
+"Dangerous","Southern Yellow-cheeked Crested Gibbon",11
+"Dangerous","Brown Capuchin",9
+"Dangerous","Colombian Red Howler",9
+"Dangerous","Brown Howler",8
+"Dangerous","Gray-cheeked Mangabey",8
+"Dangerous","Long-tailed Macaque",8
+"Dangerous","Taiwanese Macaque",8
+"Dangerous","Chacma Baboon",7
+"Dangerous","Dusky Langur",7
+"Dangerous","Leopard",7
+"Dangerous","Pale-thighed Langur",7
+"Dangerous","Spotted Hyena",6
+"Dangerous","Western Gorilla",6
+"Dangerous","Western Hoolock Gibbon",6
+"Dangerous","Blue Monkey",5
+"Dangerous","Bolivian Red Howler",5
+"Dangerous","Brown Bear",5
+"Dangerous","Caribou",5
+"Dangerous","Maroon Langur",5
+"Dangerous","Moloch Gibbon",5
+"Dangerous","Rhesus Macaque",5
+"Dangerous","Black Spider Monkey",4
+"Dangerous","Common Fallow Deer",4
+"Dangerous","De Brazza's Monkey",4
+"Dangerous","Eastern Red-handed Howler",4
+"Dangerous","Giant Otter",4
+"Dangerous","Mandrill",4
+"Dangerous","Olive Baboon",4
+"Dangerous","Smooth-coated Otter",4
+"Dangerous","Spot-nosed Monkey",4
+"Dangerous","White-lipped Peccary",4
+"Dangerous","Black-and-gold Howler",3
+"Dangerous","Black-horned Capuchin",3
+"Dangerous","Blue Wildebeest",3
+"Dangerous","Central American Black Howler",3
+"Dangerous","Central American Spider Monkey",3
+"Dangerous","Dromedary Camel",3
+"Dangerous","Humboldt's White-fronted Capuchin",3
+"Dangerous","Kinda Baboon",3
+"Dangerous","Marañón White-fronted Capuchin",3
+"Dangerous","Proboscis Monkey",3
+"Dangerous","Purple-faced Langur",3
+"Dangerous","Raffles's Banded Langur",3
+"Dangerous","Red River Hog",3
+"Dangerous","Sika Deer",3
+"Dangerous","Southern Muriqui",3
+"Dangerous","Tiger",3
+"Dangerous","Vervet Monkey",3
+"Dangerous","Wapiti",3
+"Dangerous","White Rhinoceros",3
+"Dangerous","Yellow Baboon",3
+"Dangerous","African Savanna Elephant",2
+"Dangerous","Agile Gibbon",2
+"Dangerous","Amazon Black Howler",2
+"Dangerous","American Bison",2
+"Dangerous","Andean Bear",2
+"Dangerous","Asian Elephant",2
+"Dangerous","Barbary Macaque",2
+"Dangerous","Bengal Sacred Langur",2
+"Dangerous","Black Wildebeest",2
+"Dangerous","Bornean Orangutan",2
+"Dangerous","Bornean White-bearded Gibbon",2
+"Dangerous","Canadian Lynx",2
+"Dangerous","Cape Buffalo",2
+"Dangerous","Common Woolly Monkey",2
+"Dangerous","Crested Macaque",2
+"Dangerous","Crowned Monkey",2
+"Dangerous","East Javan Langur",2
+"Dangerous","Ecuadorian White-fronted Capuchin",2
+"Dangerous","Germain's Langur",2
+"Dangerous","Iberian Lynx",2
+"Dangerous","Kloss's Gibbon",2
+"Dangerous","Lowe's Monkey",2
+"Dangerous","Mona Monkey",2
+"Dangerous","Northern Yellow-cheeked Crested Gibbon",2
+"Dangerous","Pileated Gibbon",2
+"Dangerous","Plains Zebra",2
+"Dangerous","Robinson's Banded Langur",2
+"Dangerous","Santa Marta White-fronted Capuchin",2
+"Dangerous","Skywalker Hoolock Gibbon",2
+"Dangerous","Southern Pig-tailed Macaque",2
+"Dangerous","White-whiskered Spider Monkey",2
+"Dangerous","Allen's Swamp Monkey",1
+"Dangerous","Banteng",1
+"Dangerous","Bearded Capuchin",1
+"Dangerous","Black Colobus",1
+"Dangerous","Black Crested Mangabey",1
+"Dangerous","Black-crested Sumatran Langur",1
+"Dangerous","Bobcat",1
+"Dangerous","Bonobo",1
+"Dangerous","Capped Langur",1
+"Dangerous","Common Patas Monkey",1
+"Dangerous","Common Warthog",1
+"Dangerous","Crested Capuchin",1
+"Dangerous","Diana Monkey",1
+"Dangerous","Eastern Gorilla",1
+"Dangerous","Eastern Gray Kangaroo",1
+"Dangerous","Gayal",1
+"Dangerous","Golden Snub-nosed Monkey",1
+"Dangerous","Golden-bellied Mangabey",1
+"Dangerous","Green Monkey",1
+"Dangerous","Jaguarundi",1
+"Dangerous","Ka'apor Capuchin",1
+"Dangerous","King Colobus",1
+"Dangerous","Laos Langur",1
+"Dangerous","Malbrouck Monkey",1
+"Dangerous","Mountain Zebra",1
+"Dangerous","Nepal Sacred Langur",1
+"Dangerous","Red-tailed Monkey",1
+"Dangerous","Selangor Silvery Langur",1
+"Dangerous","Siberut Macaque",1
+"Dangerous","Snow Leopard",1
+"Dangerous","Sooty Mangabey",1
+"Dangerous","Southern Gray Gibbon",1
+"Dangerous","Tasmanian Devil",1
+"Dangerous","Terai Sacred Langur",1
+"Dangerous","Tibetan Macaque",1
+"Dangerous","Tonkean Macaque",1
+"Dangerous","Upper Guinea Red Colobus",1
+"Dangerous","Western Gray Kangaroo",1
+"Dangerous","White-cheeked Macaque",1
+"Dangerous","Wild Yak",1
+"Normal","Domestic Cat",14
+"Normal","Domestic Sheep",13
+"Normal","Domestic Ass",5
+"Normal","Domestic Pig",5
+"Normal","Domestic Dog",4
+"Normal","Domestic Goat",2
+"Normal","Domestic Horse",1
+"Weak","Red Fox",319
+"Weak","Eurasian Beaver",39
+"Weak","Golden Jackal",36
+"Weak","Coypu",24
+"Weak","Stone Marten",21
+"Weak","Coyote",19
+"Weak","European Badger",18
+"Weak","Caribou",14
+"Weak","Taurine Cattle",11
+"Weak","Toppin's Titi",11
+"Weak","Black-tufted-ear Marmoset",10
+"Weak","Buffy-tufted-ear Marmoset",9
+"Weak","South American Coati",9
+"Weak","Western Roe Deer",9
+"Weak","White-faced Saki",9
+"Weak","Common Marmoset",7
+"Weak","Corsac Fox",7
+"Weak","European Pine Marten",7
+"Weak","Lesson's Saddle-back Tamarin",7
+"Weak","Northern Raccoon",7
+"Weak","Western Tree Hyrax",7
+"Weak","White-tailed Deer",7
+"Weak","Black Giant Squirrel",6
+"Weak","Common Brush-tailed Possum",6
+"Weak","Goeldi's Monkey",6
+"Weak","Greater Capybara",6
+"Weak","Guianan Squirrel Monkey",6
+"Weak","Blond Titi",5
+"Weak","Coppery Titi",5
+"Weak","Egyptian Mongoose",5
+"Weak","Kinkajou",5
+"Weak","Midas Tamarin",5
+"Weak","Short-eared Brush-tailed Possum",5
+"Weak","Southern Tree Hyrax",5
+"Weak","Azara's Night Monkey",4
+"Weak","Black-mantled Tamarin",4
+"Weak","Cacomistle",4
+"Weak","Formosan Serow",4
+"Weak","Golden-headed Lion Tamarin",4
+"Weak","Impala",4
+"Weak","Indri",4
+"Weak","Koala",4
+"Weak","Rock Hyrax",4
+"Weak","Weddell's Saddle-back Tamarin",4
+"Weak","White-footed Tamarin",4
+"Weak","Yellow-throated Marten",4
+"Weak","Arctic Fox",3
+"Weak","Black-capped Squirrel Monkey",3
+"Weak","Black-fronted Titi",3
+"Weak","Black-headed Night Monkey",3
+"Weak","Collins's Squirrel Monkey",3
+"Weak","Emperor Tamarin",3
+"Weak","Humboldt's Squirrel Monkey",3
+"Weak","Lowland Tapir",3
+"Weak","Masked Palm Civet",3
+"Weak","Northern Pygmy Marmoset",3
+"Weak","Pale Giant Squirrel",3
+"Weak","Pampas Fox",3
+"Weak","San Martín Titi",3
+"Weak","Side-striped Jackal",3
+"Weak","White-eared Titi",3
+"Weak","Black Lion Tamarin",2
+"Weak","Black-tailed Marmoset",2
+"Weak","Eastern Black-handed Tamarin",2
+"Weak","Eastern Lowland Olingo",2
+"Weak","Ecuadorian Squirrel Monkey",2
+"Weak","Geoffroy's Tufted-ear Marmoset",2
+"Weak","Golden Lion Tamarin",2
+"Weak","Golden-backed Squirrel Monkey",2
+"Weak","Golden-brown Uacari",2
+"Weak","Golden-faced Saki",2
+"Weak","Gray-legged Night Monkey",2
+"Weak","Least Weasel",2
+"Weak","Lesser Grison",2
+"Weak","Madidi Titi",2
+"Weak","Malayan Porcupine",2
+"Weak","Masked Titi",2
+"Weak","Meerkat",2
+"Weak","Milne-Edwards's Sportive Lemur",2
+"Weak","Mongolian Gazelle",2
+"Weak","Northern Chamois",2
+"Weak","Northern Palm Civet",2
+"Weak","Peters's Duiker",2
+"Weak","Red-nosed Bearded Saki",2
+"Weak","Spotted-tailed Quoll",2
+"Weak","African Golden Wolf",1
+"Weak","African Palm Civet",1
+"Weak","American Mink",1
+"Weak","Beringian Ermine",1
+"Weak","Black-backed Jackal",1
+"Weak","Black-faced Lion Tamarin",1
+"Weak","Bush Dog",1
+"Weak","Coimbra-Filho's Titi",1
+"Weak","Common Slender Mongoose",1
+"Weak","Common Wombat",1
+"Weak","Coppery Brush-tailed Possum",1
+"Weak","Crab-eating Raccoon",1
+"Weak","Culpeo",1
+"Weak","Darwin's Fox",1
+"Weak","Golden-mantled Saddle-back Tamarin",1
+"Weak","Guianan Bearded Saki",1
+"Weak","Indian Giant Squirrel",1
+"Weak","Llama",1
+"Weak","Lowland Paca",1
+"Weak","Mottled-face Tamarin",1
+"Weak","Mountain Tapir",1
+"Weak","North American Porcupine",1
+"Weak","Northern Bamboo Lemur",1
+"Weak","Northern Talapoin Monkey",1
+"Weak","Ornate Titi",1
+"Weak","Pale Titi",1
+"Weak","Pampas Deer",1
+"Weak","Pied Bare-faced Tamarin",1
+"Weak","Pronghorn",1
+"Weak","Red-bellied Tamarin",1
+"Weak","Red-bellied Titi",1
+"Weak","Red-crowned Titi",1
+"Weak","Ring-tailed Lemur",1
+"Weak","Santarém Marmoset",1
+"Weak","Silvery Marmoset",1
+"Weak","Small-toothed Palm Civet",1
+"Weak","Snethlage's Marmoset",1
+"Weak","Southern Bahian Titi",1
+"Weak","Southern Black-eared Opossum",1
+"Weak","Southern Palm Civet",1
+"Weak","Springbok",1
+"Weak","Uta Hick's Bearded Saki",1
+"Weak","Western Black-handed Tamarin",1
+"Weak","White-chested Titi",1
+"Weak","White-nosed Coati",1
+"Weak","Wied's Marmoset",1
+"Weak","Yellow-handed Titi",1
